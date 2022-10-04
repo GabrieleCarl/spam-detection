@@ -1,0 +1,1505 @@
+{'ORG': ['enron', 'methanol', 'meter']}
+{'ORG': ['teco']}
+{'ORG': ['u', 'foot', 'locker', 'canada', 'locker', 'canada']}
+{'ORG': ['ponton']}
+{'ORG': ['tenaska']}
+{'ORG': ['nathan', 'l', 'hlavaty']}
+{'ORG': ['mike', 'morris', 'corp', 'enron', 'enron']}
+{'ORG': ['hgm']}
+{'ORG': ['fw', 'ercot', 'smith', 'corp', 'enron', 'doug', 'gilbert', 'smith', 'corp', 'enron', 'enron', 'eric', 'saibi', 'corp', 'enron', 'enron', 'ercot']}
+{'ORG': ['megan']}
+{'ORG': ['green', 'texas', 'utilities']}
+{'ORG': ['forward', 'megan', 'parker', 'corp', 'enron', 'houston', 'expl', 'houston', 'exploration', 'company']}
+{'ORG': ['enron', 'corp', 'savings', 'plan', 'enron', 'corp', 'saving', 'cst', 'fidelity', 'freedom', 'fund', 'cst', 'cst']}
+{'ORG': ['texas', 'gas', 'group', 'america', 'corp', 'steve']}
+{'ORG': ['enron', 'teco']}
+{'ORG': ['ami', 'chokshi', 'corp', 'enron', 'enron']}
+{'ORG': ['smith', 'hou', 'ect', 'exploration', 'co', 'inc', '  ']}
+{'ORG': ['jen', 'black', 'e', 'karamie', 'kern', 'courtney', 'e', 'mail', 'morgan', 'amy', 'michelle', 'crum', 'lesley', 'fw', 'fw', 'fw', 'fw', 'fw', 'fw', 'jgaughran', 'syscom', 'inc', 'com', 'josh', 'jones', 'aachecar', 'usa', 'janelle', 'mccan', 'janelle', 'mccan']}
+{'ORG': ['nymex']}
+{'ORG': ['texas', 'bulletin', 'board']}
+{'ORG': ['cornhusker', 'lone', 'star', 'lone', 'star']}
+{'ORG': ['ponton']}
+{'ORG': ['dun']}
+{'ORG': ['tx', ' ', 'tel']}
+{'ORG': ['anna', 'cola', 'anna', 'cola', 'recruiter', 'texaco', 'tenneco']}
+{'ORG': ['enron', 'corp', 'enron', 'corp']}
+{'ORG': ['tenaska', 'parker', 'corp', 'enron']}
+{'ORG': ['logon', 'north', 'password', 'enron']}
+{'ORG': ['enron', 'corp', 'relevant', 'enron', 'corp']}
+{'ORG': ['ami', 'chokshi', 'corp', 'enron', 'enron']}
+{'ORG': ['ponton']}
+{'ORG': ['enron', 'nom', 'march', '  ']}
+{'ORG': ['nfl']}
+{'ORG': ['mobil']}
+{'ORG': ['mcmichael', 'catalina']}
+{'ORG': ['ami', 'chokshi', 'corp', 'enron', 'enron']}
+{'ORG': ['mitchell', 'gas', 'enron', 'north', 'america', 'corp', 'megan']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['lindholm', 'oil', 'inc', 'new', 'sitara']}
+{'ORG': ['txu']}
+{'ORG': ['writeoff', 'writeoff']}
+{'ORG': ['exxon', 'company', 'usa', 'global', ' ', 'sitara']}
+{'ORG': ['ponton']}
+{'ORG': ['mark', 'mccoy', 'corp', 'enron', 'enron', 'mark', 'mccoy', 'corp', 'enron', 'enron']}
+{'ORG': ['juliann', 'fw', 'equistar', ' ', 'march', 'juliann', 'parker', 'corp', 'enron', 'enron', 'fw', 'equistar', ' ']}
+{'ORG': ['texas', 'general', 'land', 'office', 'texas', 'general', 'land', 'office', 'transport', 'texas', 'general', 'land', 'office', 'texas', 'general', 'land', 'office']}
+{'ORG': ['megan', 'parker', 'corp', 'enron', 'enron', 'enron', 'north', 'america', 'corp', 'megan']}
+{'ORG': ['ami', 'chokshi', 'corp', 'enron', 'enron']}
+{'ORG': ['ponton']}
+{'ORG': ['houston', 'ship', 'channel', 'pat', 'clynes', 'corp', 'enron', 'enron', 'rita', 'enron', 'north', 'america', 'corp', 'gary', 'pat', 'clynes', 'corp', 'enron', 'enron', 'rita']}
+{'ORG': ['houston', 'exploration', '  ', 'enron', 'north', 'america', 'corp', 'nick', 'cocavessis', 'corp', 'enron', 'thomas', 'gco', 'enron', 'enron', 'basin']}
+{'ORG': ['robert', 'eickenroht', 'corp', 'enron', 'enron', 'nathan', 'l', 'hlavaty', 'ect', 'greg', 'mcclendon', 'hou', 'ect', 'staab', 'corp', 'enron', 'enron', 'earl', 'pollack', 'corp', 'enron', 'brassfield', 'thomas', 'gco', 'enron', 'enron', 'ronald', 'surber', 'gco', 'enron', 'enron', 'jacob', 'krautsch', 'green', 'corp', 'enron', 'enron', 'karl', 'e', 'ots', 'john', 'miska', 'gco', 'enron', 'enron', 'barbara', 'lewis', 'hou', 'ect']}
+{'ORG': ['writeoff']}
+{'ORG': ['jan', 'svajian']}
+{'ORG': ['aep', 'calgary']}
+{'ORG': ['w', 'ellis', 'cfp', 'clu', 'chfc', 'american', 'express']}
+{'ORG': ['enron']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'pat', 'clynes']}
+{'ORG': ['ponderosa', 'pine', 'energy']}
+{'ORG': ['katherine', 'herrera', 'corp', 'enron', 'enron', 'enron', 'north', 'america', 'corp', 'bryce']}
+{'ORG': ['centana', 'mobil', 'pan', 'energy', 'exchange', 'mobil', 'mobil', 'katherine', 'herrera', 'corp', 'enron', 'enron', 'centana', 'mobil', 'centana', 'mobil', 'mobil', 'mobil']}
+{'ORG': ['rincon', 'petroleum', 'corp', 'tom', 'rincon', 'petroleum', 'corporation']}
+{'ORG': ['pec', 'pec', 'pec', 'pec', 'pec']}
+{'ORG': ['fw', 'auto']}
+{'ORG': ['\x01', '\x01']}
+{'ORG': ['ami', 'chokshi', 'corp', 'enron', 'enron']}
+{'ORG': ['fw', 'epgt', 'matagorda', ' ', 'accord']}
+{'ORG': ['bankruptcy', 'management', 'committee', 'u', 'trustee', 'enron', 'corp']}
+{'ORG': ['pec', 'mobil']}
+{'ORG': ['mips', 'mips', 'mips', 'mips', 'mip', 'measure', 'prelim', 'mips']}
+{'ORG': ['united', 'salt']}
+{'ORG': ['citibank', 'citibank', 'citibank']}
+{'ORG': ['texaco']}
+{'ORG': ['\x01', '\x01', '\x01', '\x01']}
+{'ORG': ['texas', 'desk', 'product', 'description']}
+{'ORG': ['abb', 'alstom', 'power', 'inc']}
+{'ORG': ['tx', ' ', 'tel']}
+{'ORG': ['jan', ' ']}
+{'ORG': ['sec', 'sec', 'enron', 'board', 'sec', 'sec']}
+{'ORG': ['ec', 'ec']}
+{'ORG': ['jan', 'svajian']}
+{'ORG': ['pan', 'energy', 'exchange']}
+{'ORG': ['supreme', 'court']}
+{'ORG': ['davis']}
+{'ORG': ['mark', 'mccoy', 'corp', 'enron', 'enron']}
+{'ORG': ['mtbe', 'morgan', 'point', 'march']}
+{'ORG': ['boas', 'hou', 'ect', 'eta']}
+{'ORG': ['ponton']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'victor', 'franklin', 'corp', 'enron', 'enron', 'deal']}
+{'ORG': ['mtbe', 'morgan', 'point']}
+{'ORG': ['tenaska', 'forward', 'megan', 'parker', 'corp', 'enron', '     ', 'megan', 'parker', 'corp', 'enron', 'enron', 'tenaska', 'texas', 'partners', 'ltd', ' ', 'september', 'apache', 'corp', '    ']}
+{'ORG': ['ponton', '      ']}
+{'ORG': ['msn', 'msn', 'broadband', 'dial']}
+{'ORG': ['fw', 'gop', 'action', 'fw', 'gop', 'gop', 'united', 'republican', 'fund', 'urf', 'patriot', 'betray', 'bombard', 'news', 'medium', 'white', 'house', 'senate', 'senate', 'dick', 'gephardt', 'house', 'u', 'capitol', 'switchboard', 'boston', 'globe', 'storin', 'globe', 'new', 'york', 'times', 'washington', 'post', 'abc', 'e', 'abc', 'cnn', 'cbs', 'msnbc', 'nbc', 'nbc', 'nbc', 'nbc', 'nbc', 'houston', 'business', 'journal', 'houston', 'texas', '    ']}
+{'ORG': ['teco']}
+{'ORG': ['tenaska']}
+{'ORG': ['ami', 'chokshi', 'corp', 'enron', 'enron']}
+{'ORG': ['hgpl', 'kgpl', ' ', 'river']}
+{'ORG': ['nathan', 'l', 'hlavaty']}
+{'ORG': ['pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'connie', 'pec', 'pec', 'ronald', 'c', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'connie', 'pec', 'pec', 'ronald', 'c', 'pec', 'pec']}
+{'ORG': ['enron']}
+{'ORG': ['pennzenergy', 'property', 'ami', 'chokshi', 'corp', 'enron', 'enron']}
+{'ORG': ['enron']}
+{'ORG': ['scott', 'request', 'schulte', 'corp', 'enron', 'enron', 'david', 'shawna', 'johnson', 'corp', 'enron', 'enron']}
+{'ORG': ['el', 'paso', 'enron', 'k', '  ', 'date', 'teco', 'texas', 'company', 'reference', 'pacific', 'gas', 'electric', 'company', 'california', 'public', 'utilities', 'commission']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'tville', ' ', 'tville', 'enron', 'north', 'america', 'corp']}
+{'ORG': ['white', 'corp', 'enron', 'enron', 'physical', 'texas', 'bammel', 'e', 'texas', 'pipeline', 'west', 'colorado', 'columbia', 'gulf', 'south', 'koch']}
+{'ORG': ['enron', 'corp', 'enron', 'north', 'america', '\x01']}
+{'ORG': ['wilson', 'county']}
+{'ORG': ['el', 'paso', 'teco']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'mark', 'mccoy', 'corp', 'enron', 'enron', 'tenaska', 'tenaska']}
+{'ORG': ['fwd']}
+{'ORG': ['teco', 'gas']}
+{'ORG': ['tenaska']}
+{'ORG': ['hillary', 'mack', 'corp', 'enron', 'enron', 'cc', 'republic', 'royalty', '  ', 'parker', 'corp', 'enron', 'enron', 'parker', 'corp', 'enron', 'enron', 'ami', 'chokshi', 'corp', 'enron', 'enron', 'megan']}
+{'ORG': ['crump', 'corp', 'enron', 'enron', 'andrew', 'wilson', 'corp', 'enron', 'enron', 'glenn', 'wright', 'corp', 'enron', 'enron']}
+{'ORG': ['pamela', 'chambers', 'corp', 'enron', 'enron', 'cdeaton']}
+{'ORG': ['ami', 'chokshi', 'corp', 'enron', 'enron']}
+{'ORG': ['enron', 'corp', 'saving', 'plan', 'participant', 'enron', 'corp', 'savings', 'cst', 'enron', 'corp', 'saving', 'cst']}
+{'ORG': ['txu', 'el', 'paso', 'parker', 'megan', 'txu', 'txu']}
+{'ORG': ['\x01', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', 'new', 'york', 'stock', 'exchange', '\x01', '\x01', '\x01']}
+{'ORG': ['ferc']}
+{'ORG': ['southern', 'union']}
+{'ORG': ['dow', 'pipeline', 'liz', 'karen', 'lindley', 'corp', 'enron', 'enron', 'cc', 'paul', 'couvillon', 'corp', 'karen', 'lindley', 'corp', 'enron', 'enron', 'dow']}
+{'ORG': ['sitara', 'update', 'note']}
+{'ORG': ['fw', 'calpine', 'daily', 'juliann']}
+{'ORG': ['lb', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'connie', 'pec', 'pec', 'mobil']}
+{'ORG': ['pec', 'pec', 'dfarmer', 'enron', 'houston', 'pefs', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'poe', 'pec', 'pec']}
+{'ORG': ['ponton']}
+{'ORG': ['john', 'griffith', 'corp', 'enron', 'enron']}
+{'ORG': ['fw', 'fw', 'march', 'dow', 'hydrocarbon', 'resource', 'inc']}
+{'ORG': ['bayer', 'march', ' ']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'melissa', 'enron', 'north', 'america', 'corp', 'gary', 'connie', 'sutton', 'hou', 'ect', 'pat', 'clynes', 'corp', 'enron', 'enron', 'besancon', 'gco', 'enron', 'enron', 'rodney', 'rogers', 'gco', 'enron', 'enron']}
+{'ORG': ['enron', 'north', 'american', 'lan', 'datum', 'corp', 'environment', 'update', 'dfs', 'environment', 'corp', 'gop']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'scott', 'kaiser', 'hou', 'ect', 'christina', 'sanchez', 'corp', 'enron', 'enron', 'collins', 'corp', 'enron', 'enron', 'cynthia', 'franklin', 'corp', 'enron', 'enron', 'zeman', 'corp', 'enron', 'thompson', 'corp', 'enron', 'enron', 'morgan', 'sharifi', 'corp', 'desk', 'directors', 'scott', 'neal']}
+{'ORG': ['texoma', 'mobil', 'mobil', 'mobil', 'mobil', 'mobil', 'mobil']}
+{'ORG': ['feb', ' ']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'rita', 'enron', 'north', 'america', 'corp', 'gary', 'pat', 'clynes', 'corp', 'enron', 'enron', 'rita']}
+{'ORG': ['tenaska', 'williams', 'apache', 'lone', 'star', 'ena', 'act']}
+{'ORG': ['w', ' ', '\x01', '\x01', '\x01']}
+{'ORG': ['pec', 'pec', 'pec', 'pec']}
+{'ORG': ['lemmon', 'corp', 'enron', 'enron', 'rebecca', 'mile', 'corp', 'enron', 'nguyen', 'corp', 'enron', 'enron']}
+{'ORG': ['tenaska', 'stiver', 'tenaska', 'inc', ' ', 'williams', 'apache', 'lone', 'star', 'ena', 'act']}
+{'ORG': ['texas', 'city', 'marathon']}
+{'ORG': ['tetco', 'tommorrow', '    ']}
+{'ORG': ['doc']}
+{'ORG': ['please', 'note']}
+{'ORG': ['txu']}
+{'ORG': ['oil', 'gas', 'inc']}
+{'ORG': ['holiday', 'party']}
+{'ORG': ['air', 'products', 'inc', ' ']}
+{'ORG': ['mobil', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'connie', 'pec', 'pec']}
+{'ORG': ['ponton', 'tu', 'melissa', 'jones', 'texas', 'utilities']}
+{'ORG': ['sears', 'present', 'website', 'repair', 'service']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'gary', 'pat', 'clynes', 'corp', 'enron', 'enron', 'mips']}
+{'ORG': ['tenaska']}
+{'ORG': ['netco']}
+{'ORG': ['pioneer', 'natural']}
+{'ORG': ['fw', 'energy', 'service', 'fw', 'energy', 'service']}
+{'ORG': ['tenaska']}
+{'ORG': ['fortune', 'admire', 'rank', 'goldman', 'sachs']}
+{'ORG': ['texas', 'asset', 'duke', 'tina', 'valadez', 'hou', 'ect']}
+{'ORG': ['pec', 'pec', 'pec']}
+{'ORG': ['enron', 'north', 'america', 'corp']}
+{'ORG': ['ponton']}
+{'ORG': ['el', 'paso']}
+{'ORG': ['tx', ' ', 'tel']}
+{'ORG': ['dev', 'corp', 'enron', 'dev', 'corp', 'enron']}
+{'ORG': ['enron']}
+{'ORG': ['pacific', 'resources', 'inc', '  ']}
+{'ORG': ['jan', 'svajian', 'june']}
+{'ORG': ['g', 'superior', 'april', 'g', '   ', 'g', '   ', 'g', '   ']}
+{'ORG': ['namefield', 'daren', 'farmer', 'tx']}
+{'ORG': ['ponton']}
+{'ORG': ['mobil', 'mobil']}
+{'ORG': ['tenaska', 'gas', 'management']}
+{'ORG': ['tenaska', 'greg', 'white', 'corp', 'enron', 'enron', 'troy', 'klussmann', 'hou', 'ect', 'ect', 'megan', 'parker', 'corp', 'enron', 'enron', 'enron', 'north', 'america', 'corp', 'megan']}
+{'ORG': ['ponton']}
+{'ORG': ['panenergy', 'marketing', 'exchange']}
+{'ORG': ['katherine', 'herrera', 'corp', 'enron', 'enron', 'cc', 'duke', 'exchange']}
+{'ORG': ['petroleum', 'corp', '  ']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'pat', 'clynes']}
+{'ORG': ['tetco', 'pat', 'clynes', 'corp', 'enron', 'enron', 'tommorrow', '    ']}
+{'ORG': ['bryson', 'c', 'p', 'meter', 'midcon', 'texas', 'kn', 'sometimes', 'ship', 'midcon']}
+{'ORG': ['\x01', 'mm', '\x01']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'melissa']}
+{'ORG': ['america', 'corp']}
+{'ORG': ['mobil']}
+{'ORG': ['mips']}
+{'ORG': ['megan', 'parker', 'corp', 'enron', 'enron', 'enron', 'north', 'america', 'corp', 'megan', 'parker', 'corp', 'enron', 'enron', 'pec', 'pec', 'lb', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'connie', 'pec', 'pec', 'mobil']}
+{'ORG': ['karen', 'lindley', 'corp', 'enron', 'enron', 'sherlyn', 'schumack', 'hou', 'ect', 'enron', 'north', 'america', 'corp']}
+{'ORG': ['cbs', 'television', 'u', 'resident', ' ', 'old']}
+{'ORG': ['hgm', 'sr']}
+{'ORG': ['tenaska']}
+{'ORG': ['karen', 'lindley', 'corp', 'enron', 'katy', 'gas']}
+{'ORG': ['coastal', 'oil', 'gas', 'usa', 'l', 'p', 'pat', 'clynes', 'corp', 'enron', 'enron', 'l', 'morris']}
+{'ORG': ['mcfd', 'mcfd', 'kcs', 'resource', 'dickenson']}
+{'ORG': ['doc']}
+{'ORG': ['\x01', 'john', '\x01', '\x01', '\x01']}
+{'ORG': ['franklin', 'corp', 'enron', 'enron', 'pat', 'clynes', 'corp', 'enron', 'enron', 'enron', 'north', 'america', 'corp', 'victor', 'franklin', 'corp', 'enron', 'enron', 'autonom', 'franklin', 'corp', 'enron', 'franklin', 'corp', 'enron', 'enron']}
+{'ORG': ['tom', 'acton', 'corp', 'enron', 'enron']}
+{'ORG': ['blue', 'dolphin']}
+{'ORG': ['tenaska']}
+{'ORG': ['picl', ' ', 'pcx', 'pico']}
+{'ORG': ['teco']}
+{'ORG': ['pat', 'clyne', 'corp', 'enron', 'enron', 'l', 'p', 'hplc', 'hplc', 'gulf', 'energy']}
+{'ORG': ['juno', 'online', 'service', 'inc']}
+{'ORG': ['txu']}
+{'ORG': ['teco', 'teco', 'teco']}
+{'ORG': ['samson', 'samson']}
+{'ORG': ['anc']}
+{'ORG': ['ponton', '      ']}
+{'ORG': ['fw', 'intrastate', 'exxon', 'katy', 'enron', 'north', 'america', 'corp', 'lisa', 'fw', 'intrastate', 'exxon', 'katy', 'location']}
+{'ORG': ['enron', 'corp', 'file', 'securities', 'exchange', 'commission']}
+{'ORG': ['texas', 'general', 'land']}
+{'ORG': ['morgan', 'begin', 'st', 'megan', 'kim', 'morgan', 'mobil']}
+{'ORG': ['ponton']}
+{'ORG': ['tenaska', 'megan', 'parker', 'corp', 'enron', 'enron', 'tenaska']}
+{'ORG': ['gmt', 'inc', '  ']}
+{'ORG': ['fw', 'crosstex', 'energy', 'driscoll', 'gpa']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'l', 'morris', 'pat', 'ena', 'buyer', 'hplc']}
+{'ORG': ['phillips', 'petroleum', 'inc', 'forward', 'ect', 'phillips', 'petroleum', 'inc', 'tom']}
+{'ORG': ['doc']}
+{'ORG': ['ponton']}
+{'ORG': ['texas', 'utilities']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'g', 'connevey', 'corp', 'enron', 'enron', 'pamela', 'chambers', 'corp', 'enron', 'enron']}
+{'ORG': ['enron', 'corp', 'meter']}
+{'ORG': ['ken', 'petroleum', 'corporation', 'ken', 'petroleum', 'corporation', 'ken', 'petroleum', 'corporation', 'ken', 'petroleum', 'corporation']}
+{'ORG': ['hunt', 'texas', 'economics', 'parker', 'corp', 'enron', 'enron', 'ami', 'chokshi', 'corp', 'enron', 'enron', 'bryan', 'hull', 'hou', 'ect']}
+{'ORG': ['motorola', 'tm', 'program', 'point', 'point']}
+{'ORG': ['g', 'connevey', 'corp', 'enron', 'enron', 'cc', 'request', 'submit', 'n', ' ', 'kdl']}
+{'ORG': ['chevron', 'phillips', 'chemical', 'tx', ' ', 'tel']}
+{'ORG': ['exxon', 'company', 'usa', 'global', ' ', 'sitara', 'evergreen']}
+{'ORG': ['castrol', 'gtx', 'castrol', 'syntec']}
+{'ORG': ['tenaska']}
+{'ORG': ['united', 'state', 'texas', 'survive', 'republic', 'nasa', 'houston', 'texas', 'control', 'space', 'texas', 'industry', 'dell', 'texas', 'ut', 'rice', 'university', 'houston', 'smu', 'baylor', 'unt', 'texas']}
+{'ORG': ['lone', 'star', 'point']}
+{'ORG': ['mtbe', 'morgan', 'point', 'july']}
+{'ORG': ['megan']}
+{'ORG': ['ponton', 'ponton']}
+{'ORG': ['xyz', 'assign', 'abc', '   ']}
+{'ORG': ['tenaska', 'williams', 'apache', 'lone', 'star', 'ena', 'act']}
+{'ORG': ['coastal', 'oil', 'gas', 'corporation', 'enron', 'north', 'america', 'corp', 'tx', 'hillary', 'mack', 'corp', 'enron', 'enron', 'tx', 'albrecht', 'coastal', 'oil', 'gas', 'corp', 'america', 'corp', 'tx', 'america', 'corp', 'tx', 'george', 'note', 'hplc', 'enron', 'north', 'america', 'corp', 'tx', 'albrecht', 'tx', 'albrecht', 'albrecht', 'lal', 'tx', 'albrecht', 'albrecht', 'hoff', 'heller', 'gas', 'albrecht', 'enron', 'north', 'america', 'corp', 'lisa']}
+{'ORG': ['mark', 'mccoy', 'corp', 'enron', 'enron']}
+{'ORG': ['enron', 'texas', ' ']}
+{'ORG': ['el', 'paso']}
+{'ORG': ['charles', 'ward', 'corp', 'enron', 'enron']}
+{'ORG': ['ponton']}
+{'ORG': ['megan', 'jones', 'consideration', 'sr', 'specialist', 'el', 'paso', 'end']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'valero', 'kenneth', 'seaman']}
+{'ORG': ['enron']}
+{'ORG': ['enron', 'north', 'america', 'corp']}
+{'ORG': ['deal', 'white', 'petroleum', 'corp', '  ']}
+{'ORG': ['jan', 'johnson', 'corp', 'scott', 'schield', 'corp', 'kevin', 'barrett', 'ees', 'karen', 'choyce', 'corp', 'cheryl', 'kokenge', 'corp', 'matt', 'landy', 'eel', 'lothian', 'eel', 'meg', 'malone', 'corp', 'peng', 'corp', 'stephen', 'schwarzbach', 'corp', 'sally', 'patricia', 'shannon', 'corp', 'eddie', 'sike', 'davis', 'corp', 'isc', 'rebecca', 'ford', 'kevin', 'hall', 'sharp', 'corp', 'tax', 'stephanie', 'smith', 'corp', 'patricia', 'spence', 'taylor', 'corp', 'bartz', 'corp', 'stacey', 'patricia', 'clark', 'corp', 'chris', 'isc', 'kelly', 'mccain', 'corp', 'tax', 'errol', 'mclaughlin', 'jr', 'enw', 'sylvia', 'meredith', 'mitchell', 'winnie', 'ngai', 'corp', 'pierson', 'corp', 'lillie', 'isc', 'shifali', 'alan', 'marsh', 'corp', 'tax', 'bruce', 'isc', 'andrea', 'price', 'corp', 'stuart', 'klussman', 'corp', 'accountant', 'ii', 'london', 'stuart', 'allwardt', 'international', 'tax', 'leon', 'todd', 'richard', 'corp', 'tax', 'michelle', 'thompson', 'corp', 'tax', 'sr', 'administrative', 'london', 'sr', 'travel', 'sandhu']}
+{'ORG': ['pec', 'pec', 'lb', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'connie', 'pec', 'pec', 'mobil']}
+{'ORG': ['praxair', 'assign', 'hplc', 'un', 'texas', 'utilities', 'fuel', 'transmission', 'company', 'inc', 'ena', 'praxair', 'inc', 'central', 'power', 'light', 'company', 'southern', 'union', 'h', 'gas', 'company', 'inc', 'texas', 'transmission', 'company', 'inc']}
+{'ORG': ['meredith']}
+{'ORG': ['texas', 'business', 'critical', 'pamela', 'chamber', 'corp', 'enron', 'enron', 'kickoff']}
+{'ORG': ['shanghai', 'energy']}
+{'ORG': ['ponton']}
+{'ORG': ['pentagon', 'pentagon', 'pentagon', 'american', 'airlines', 'boeing', 'pentagon', 'united', 'airlines', 'united', 'airlines', 'pentagon']}
+{'ORG': ['txu', 'lone', 'star', 'redelivery', 'txu', 'lone', 'star', 'redelivery']}
+{'ORG': ['ami', 'chokshi', 'corp', 'enron', 'enron', 'megan']}
+{'ORG': ['tackett', 'mailto', 'rtackett', 'abacustech', 'net']}
+{'ORG': ['lacy', 'eye']}
+{'ORG': ['ponton', 'tu', 'melissa', 'jones', 'texas', 'utilities']}
+{'ORG': ['prudential', 'texas', ' ', 'voice']}
+{'ORG': ['united', 'oil', 'mineral', 'inc', 'united', 'oil', 'mineral', 'globla']}
+{'ORG': ['enron']}
+{'ORG': ['exxon', 'katy']}
+{'ORG': ['fw', 'crosstex', 'energy', 'driscoll', 'gpa']}
+{'ORG': ['mobil']}
+{'ORG': ['nat']}
+{'ORG': ['tx', 'texas', ' ', 'tel', 'picl', ' ', 'pcx', 'pico']}
+{'ORG': ['greg', 'white', 'corp', 'enron', 'enron', 'corp', 'enron', 'enron', 'megan', 'parker', 'corp', 'enron', 'enron', 'kelly', 'ellis', 'corp', 'enron', 'enron', 'white', 'corp', 'enron', 'enron', 'corp', 'enron', 'enron', 'megan', 'parker', 'corp', 'enron', 'enron', 'greg', 'white', 'corp', 'enron', 'enron', 'corp', 'enron', 'enron', 'megan', 'parker', 'corp', 'enron', 'enron']}
+{'ORG': ['fw', 'statement', 'operate', 'elpaso', 'corporation']}
+{'ORG': ['tina', 'valadez', 'hou', 'ect']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'rita']}
+{'ORG': ['mag', 'plant']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'victor', 'franklin', 'corp', 'enron', 'enron', 'autonom', 'franklin', 'corp', 'enron', 'franklin', 'corp', 'enron', 'enron']}
+{'ORG': ['saxet', 'canale', 'king', 'ranch']}
+{'ORG': ['conoco', 'inc', 'miss']}
+{'ORG': ['texas', 'general', 'land']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'pamela', 'chambers', 'corp', 'enron', 'enron', 'cdeaton']}
+{'ORG': ['mmbtud', 'gas', 'ferc']}
+{'ORG': ['fw', 'red', 'white', 'blue', 'irs', 'dbb', 'sa', 'inc', 'kcameron', 'yahoo', 'inc', 'fujitsu', 'sec', 'dlugosch', 'home', 'mengel', 'jgroce', 'lasercomm', 'inc', 'arco', 'toddmel', 'texoma', 'phorton', 'usa', 'alcatel', 'arco', 'dkessler', 'waymark', 'net', 'mkessner', 'arco', 'arco', 'camozzi', 'usa', 'mobil', 'ibm', 'txu']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'pat', 'clynes', 'corp', 'enron', 'enron', 'enron', 'north', 'america', 'corp', 'pat', 'clynes']}
+{'ORG': ['williams', 'apache', 'tenaska']}
+{'ORG': ['john', 'griffith', 'corp', 'enron', 'enron']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'christian', 'lebroc', 'corp', 'enron', 'enron', 'frank', 'hayden', 'corp', 'enron', 'enron', 'ford', 'enron', 'development', 'enron', 'development', 'mason', 'richard', 'causey', 'corp', 'enron', 'enron', 'jerald', 'surface', 'hou', 'ee', 'daniel', 'falcone', 'corp', 'jennifer', 'nguyen', 'corp', 'enron', 'enron', 'nymex']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'george', 'grant', 'hou', 'ect']}
+{'ORG': ['america', 'corp', 'scott', 'pleus', 'enron', 'communication', 'enron', 'communication', 'brent', 'enron', 'north', 'america', 'corp', 'scott', 'pleus', 'enron', 'communication', 'enron', 'communication', 'brent', 'hgm']}
+{'ORG': ['mtbe']}
+{'ORG': ['chevron', 'phillips', 'chemical', 'tx', ' ', 'tel']}
+{'ORG': ['mobil']}
+{'ORG': ['juliann']}
+{'ORG': ['mtbe', 'morgan', 'point', 'september']}
+{'ORG': ['enron', 'north', 'america', 'corp']}
+{'ORG': ['franklin', 'corp', 'enron', 'enron', 'meredith', 'enron']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'gary']}
+{'ORG': ['parker', 'megan']}
+{'ORG': ['central', 'darren']}
+{'ORG': ['tville', ' ', 'tville', 'enron', 'north', 'america', 'corp']}
+{'ORG': ['enron', 'capital', 'trade', 'resources', 'corp', 'steve']}
+{'ORG': ['mcfd', 'mcfd', 'kcs', 'resource', 'dickenson']}
+{'ORG': ['dba', 'garrison', 'ltd', 'tom', 'acton', 'corp', 'enron', 'enron', 'lp', 'dba', 'garrison', 'ltd', 'tom', 'texas', 'nom', 'lp', 'dba', 'garrison', 'ltd', '  ', 'tom', 'acton', 'corp', 'enron', 'enron', 'lp', 'dba', 'garrison', 'ltd', 'tom', 'texas', 'nom', 'lp', 'dba', 'garrison', 'ltd', '  ']}
+{'ORG': ['parker', 'corp', 'enron', 'enron', 'parker', 'corp', 'enron', 'enron', 'ami', 'chokshi', 'corp', 'enron', 'enron', 'megan']}
+{'ORG': ['megan']}
+{'ORG': ['bp']}
+{'ORG': ['el', 'paso']}
+{'ORG': ['tenaska', 'megan', 'parker', 'corp', 'enron']}
+{'ORG': ['fidelity', 'bba', 'baylor', 'mba', 'university', 'dallas']}
+{'ORG': ['texas', 'land', 'cattle']}
+{'ORG': ['enron', 'nomination']}
+{'ORG': ['exxon', 'king']}
+{'ORG': ['fagen', 'kent', 'smith']}
+{'ORG': ['fw', 'pool']}
+{'ORG': ['katy', 'point']}
+{'ORG': ['parker', 'corp', 'enron', 'el', 'sordo', 'parker', 'corp', 'enron', 'enron', 'north', 'america', 'corp', 'megan', 'megan', 'forward', 'megan', 'parker', 'corp', 'enron']}
+{'ORG': ['megan', 'parker', 'corp', 'enron', 'enron', 'dave', 'enron', 'north', 'america', 'corp', 'megan', 'apache', 'tenaska']}
+{'ORG': ['mobil', 'mobil']}
+{'ORG': ['fw', 'txu']}
+{'ORG': ['enron', 'teco']}
+{'ORG': ['enron', 'capital', 'trade', 'resources', 'corp', 'ponton', '     ', 'ponton', 'houston', 'ponton', 'melissa', 'jones', 'ponton', 'tu', 'melissa', 'jones']}
+{'ORG': ['fw', 'grandma', 'wassup', 'forward', 'alex', 'saldana', 'hou', 'ect']}
+{'ORG': ['mastercard', 'international', 'lockhart', 'join', 'enron', 'corp', 'kathleen', 'affair', 'enron', 'corp', 'lou', 'pai']}
+{'ORG': ['nng', 'texas', 'desk', 'entity', 'texas', 'desk', 'hplc', 'hplc']}
+{'ORG': ['america', 'corp']}
+{'ORG': ['mobil', 'mobil', 'mobil', 'mobil', 'hplc', 'owe', 'mobil', 'mobil', 'mobil', 'mobil', 'mobil', 'mobil']}
+{'ORG': ['texaco']}
+{'ORG': ['tenaska', 'enron', 'north', 'america', 'corp', ' ', 'smith']}
+{'ORG': ['royal', 'b', 'edmondson', 'reliantenergy', 'ami', 'chokshi', 'corp', 'enron', 'enron']}
+{'ORG': ['enron', 'north', 'america', 'corp']}
+{'ORG': ['ponton', 'tu', 'melissa', 'jones', 'texas', 'utilities']}
+{'ORG': ['el', 'paso', 'energy', 'corporation']}
+{'ORG': ['teco', 'fronterra', 'forward', 'smith', 'corp', 'enron', 'enron', 'david', 'portz', 'hou', 'teco', 'fronterra', 'forward', 'teco', 'energy', 'inc']}
+{'ORG': ['crook', 'corp', 'enron', 'enron']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'clem', 'cernosek', 'hou', 'ect', 'cernosek', 'express', 'pat', 'clynes', 'corp', 'enron']}
+{'ORG': ['enron', 'chase', 'manhattan', 'york', '\x01', 'enron', 'corp', 'chase', 'manhattan', 'nyse', '\x01', '\x01', '\x01', '\x01', '\x01', 'chase', 'business', 'service', '\x01', 'chase', 'business', 'service', '\x01', '\x01', '\x01', 'chase', '\x01', '\x01', 'ene', '\x01']}
+{'ORG': ['mobil', 'marol', 'rebecca', 'mobil']}
+{'ORG': ['royal', 'b', 'edmondson', 'reliantenergy']}
+{'ORG': ['texaco', 'kcs', 'energy', 'inc', ' ', 'san', 'felipe', 'suite']}
+{'ORG': ['tgp', 'sabine', 'forward', 'edward', 'gottlob', 'hou', 'ect', 'edward', 'gottlob', 'hou', 'ect', 'el', 'paso', 'energy', 'corporation']}
+{'ORG': ['megan', 'parker', 'corp', 'enron', 'brooks', 'na', 'enron', 'enron', 'enron', 'enron', 'megan', 'parker', 'corp', 'enron', 'enron', 'rebecca', 'brooks', 'na', 'enron', 'enron', 'enron', 'enron', 'megan', 'parker', 'corp', 'enron', 'enron', 'rebecca']}
+{'ORG': ['\x01', '\x01', 'pa', '\x01', 'pa', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01']}
+{'ORG': ['\x01', '\x01', '\x01', 'texas', 'household', 'golden', '\x01']}
+{'ORG': ['ponton']}
+{'ORG': ['txu']}
+{'ORG': ['exxon', 'gulf', 'coast', 'waha', 'area']}
+{'ORG': ['prudential', 'texas', ' ', 'voice']}
+{'ORG': ['ponton', '      ']}
+{'ORG': ['columbia', 'energy', 'history', 'datum']}
+{'ORG': ['doc', 'tampaelectric']}
+{'ORG': ['mobil', 'mobil', 'jan', ' ']}
+{'ORG': ['praxair', 'inc', 'central', 'power', 'light', 'company', 'h', 'gas', 'company', 'inc', 'texas', 'transmission', 'company', 'inc']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'gary']}
+{'ORG': ['\x01', 'pat', 'clynes', 'corp', 'enron', 'enron', 'pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['pat', 'clynes', 'corp', 'pat', 'clynes', 'corp']}
+{'ORG': ['\x01', '\x01', 'treasury', '\x01', 'houston', 'phillip', 'r', 'milnthorp', '\x01', '\x01', '\x01', '\x01', 'ena', 'west', 'gas', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', 'latin', 'america', 'canada', '\x01', '\x01', 'jonathan', 'whitehead', '\x01', '\x01', '\x01', '\x01', '\x01', 'gregory', 'w', 'stubblefield', 'ees', 'financial', 'planning', 'report', '\x01', '\x01', 'jonathan', 'chapman', 'eel', '\x01', '\x01', '\x01', '\x01', '\x01', 'john', 'w', 'schwartzenburg', '\x01', '\x01']}
+{'ORG': ['paul', 'couvillon', 'corp', 'paul', 'couvillon', 'corp']}
+{'ORG': ['texas', 'group']}
+{'ORG': ['jacobs', 'scott', 'regan', 'sql', 'mail', 'regan', 'sql', 'mail']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'mcloughlin', 'corp', 'stella', 'morris']}
+{'ORG': ['ponton']}
+{'ORG': ['fw', 'heavy', 'brady', 'jones', 'archer', 'brent', 'engineer', 'hill', 'wilkinson', 'ltd']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'stacey', 'neuweiler']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'l', 'morris', 'pat', 'ena', 'buyer', 'hplc']}
+{'ORG': ['paul', 'couvillon', 'corp']}
+{'ORG': ['enron']}
+{'ORG': ['nat']}
+{'ORG': ['royal', 'b', 'edmondson', 'reliantenergy']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'gary', 'connie', 'sutton', 'hou', 'ect', 'pat', 'clynes', 'corp', 'enron', 'enron', 'besancon', 'gco', 'enron', 'enron', 'rodney', 'rogers', 'gco', 'enron', 'enron']}
+{'ORG': ['hplc', 'ocean', 'energy', 'inc', '  ', 'hplc', 'ocean', 'energy', 'inc', '  ', 'hplc', 'ocean', 'energy', 'inc', '  ', 'ocean', 'energy', 'inc', 'craig']}
+{'ORG': ['tackett', 'mailto', 'rtackett', 'abacustech', 'net', 'tx']}
+{'ORG': ['oil', 'gas', 'inc']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'smith', 'hou', 'ect', 'enron', 'taylor', 'vance', 'l', 'cc', 'nom', 'barrett', 'resource', '    ', 'apache', 'corporation', 'white', 'petroleum', 'corp', '  ']}
+{'ORG': ['royal', 'b', 'edmondson', 'reliantenergy']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['netco', 'el', 'paso', 'texas', 'valero', 'hub', 'l', 'cc', 'jackson', 'netco']}
+{'ORG': ['gmt', 'company', 'inc', 'gmt', 'inc', 'someone', 'gmt', 'company', 'inc', 'gmt', 'inc', 'feb', 'nick', 'moshou', 'corp', 'enron', 'enron', 'finalle', 'gmt', 'company', 'inc', ' ', 'gmt', 'inc', 'payee', 'enron', 'north', 'america', 'corp', 'enron', 'north', 'america', 'corp', 'nathan', 'l', 'hlavaty']}
+{'ORG': ['mobil', 'mobil']}
+{'ORG': ['tivoli', 'station', 'bryancy', 'texas', 'general', 'land']}
+{'ORG': ['ponton']}
+{'ORG': ['mtbe', 'morgan', 'point', 'april']}
+{'ORG': ['picl', ' ', 'pcx', 'pico']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['texas', 'desk', 'request']}
+{'ORG': ['doc', 'nomination', 'doc']}
+{'ORG': ['please', 'note']}
+{'ORG': ['ami', 'chokshi', 'corp', 'enron', 'enron']}
+{'ORG': ['america', 'corp', 'oil', 'gas', 'inc']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'kyle', 'luong', 'tina', 'valadez', 'forward', 'tina', 'valadez', 'hou', 'ect', 'tina', 'valadez', 'hou', 'ect']}
+{'ORG': ['mark', 'mccoy', 'corp', 'enron', 'enron']}
+{'ORG': ['tenaska']}
+{'ORG': ['juliann']}
+{'ORG': ['waha', 'hub']}
+{'ORG': ['texas', 'utilities']}
+{'ORG': ['scada', ' ', 'scada', ' ']}
+{'ORG': ['doc', 'nomination', 'doc']}
+{'ORG': ['mcfd']}
+{'ORG': ['el', 'paso', 'teco', 'katherine', 'herrera', 'corp', 'enron', 'enron', 'forward', 'megan', 'parker', 'corp', 'enron', 'megan', 'parker', 'corp', 'enron', 'enron', 'teco']}
+{'ORG': ['american', 'express', 'american', 'express']}
+{'ORG': ['reuters']}
+{'ORG': ['ponton', 'el', 'paso']}
+{'ORG': ['mobil', 'mobil', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec']}
+{'ORG': ['entex', 'nom', 'lone', 'star']}
+{'ORG': ['mips', 'mips', 'pat', 'clynes', 'corp', 'enron', 'enron', 'bryan', 'hull', 'hou', 'ect']}
+{'ORG': ['enron', 'north', 'america', 'corp']}
+{'ORG': ['texaco', 'kcs', 'energy', 'inc', ' ', 'san', 'felipe', 'suite']}
+{'ORG': ['texas', 'gas', 'america', 'corp', 'steve']}
+{'ORG': ['exxon', 'company', 'usa', 'global', ' ', 'sitara', 'evergreen']}
+{'ORG': ['fw', 'june']}
+{'ORG': ['writeoff', 'writeoff']}
+{'ORG': ['oakville']}
+{'ORG': ['enron', 'teco', 'teco']}
+{'ORG': ['brcc', 'woman', 'ministry', 'meeting']}
+{'ORG': ['texas', 'gas', 'trading', 'group', 'texas', 'gas', 'trading', 'group']}
+{'ORG': ['efp']}
+{'ORG': ['mtbe']}
+{'ORG': ['tenaska']}
+{'ORG': ['tom', 'acton', 'corp', 'enron', 'enron', 'gasper', 'rice', 'ltd', 'hplc', 'gasper', 'rice', 'ltd', ' ']}
+{'ORG': ['fwd']}
+{'ORG': ['enron']}
+{'ORG': ['enron', 'corp', 'creditor', 'committee', 'appoint', 'pacific', 'gas', 'electric', 'company']}
+{'ORG': ['txu']}
+{'ORG': ['fw', 'box', 'bed']}
+{'ORG': ['camden', 'resource', 'inc', 'team']}
+{'ORG': ['harvard']}
+{'ORG': ['enron', 'americas', 'dave', 'office', 'enron', 'americas', 'enron']}
+{'ORG': ['brazos', 'electric', 'nomination', 'hour', 'mazowita', 'mike']}
+{'ORG': ['fw', 'txu', 'lone', 'star']}
+{'ORG': ['exxon', 'company', 'usa', 'global', ' ', 'sitara', 'evergreen']}
+{'ORG': ['houston', '    ']}
+{'ORG': ['fw', 'fw', 'march', 'mary', 'ellenberger', 'corp', 'enron', 'enron', 'fw', 'fw', 'march']}
+{'ORG': ['alamo', 'quicksilver', 'program', 'design']}
+{'ORG': ['mobil', 'mobil']}
+{'ORG': ['mark', 'mccoy', 'corp', 'enron', 'enron']}
+{'ORG': ['ponton']}
+{'ORG': ['tenaska']}
+{'ORG': ['denton', 'county', 'electric', 'cooperative', 'file', 'description']}
+{'ORG': ['tenaska', 'gas', 'management']}
+{'ORG': ['ponton', 'tu', 'melissa', 'jones']}
+{'ORG': ['sony', 'sony']}
+{'ORG': ['tenaska']}
+{'ORG': ['teco']}
+{'ORG': ['egm', 'apachi', 'calme', 'corp', 'ecm', 'eim']}
+{'ORG': ['pat', 'clynes', 'corp', 'pat', 'clynes', 'corp']}
+{'ORG': ['megan', 'parker', 'corp', 'enron', '     ', 'parker', 'corp', 'enron', 'enron', 'tenaska', 'williams', 'apache', 'invoice', 'owe', 'enron', 'texas', 'partners', 'ltd']}
+{'ORG': ['nathan', 'l', 'hlavaty']}
+{'ORG': ['un']}
+{'ORG': ['scott', 'coburn', 'kenney', 'houston', 'eott', 'eott', 'zamer', 'corp', 'enron', 'enron']}
+{'ORG': ['red', 'baylor']}
+{'ORG': ['ect', 'megan', 'parker', 'corp', 'enron', 'enron']}
+{'ORG': ['fw', 'danger', 'triaminic', 'triaminicol', 'cold', 'cough', 'acutrim', 'diet', 'gum', 'appetite', 'suppressant', 'plus', 'diary']}
+{'ORG': ['enron']}
+{'ORG': ['georgia', 'gulf', ' ', 'phillips', 'pasadena', ' ', 'albemarle', 'thomas', 'gco', 'enron', 'enron', 'sam', 'shaw', 'gco', 'enron', 'enron', 'pat', 'flavin', 'gco', 'enron', 'enron', 'nick', 'cocavessis', 'corp', 'enron']}
+{'ORG': ['gpa']}
+{'ORG': ['tina', 'valadez', 'hou', 'ect']}
+{'ORG': ['elpaso', 'corporation']}
+{'ORG': ['deal', 'white', 'petroleum', 'corp', '  ']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'tom', 'acton', 'corp', 'enron', 'enron']}
+{'ORG': ['correction', 'darren', 'farmer', 'correction', 'mobil', 'mobil']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'pat', 'clynes', 'pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['texas', 'gulf', 'coast', 'moody', 'garden', 'galveston', 'texas']}
+{'ORG': ['dvn']}
+{'ORG': ['emotley', ' ', 'elpaso', ' ', 'ecom', 'elpaso', 'corporation']}
+{'ORG': ['delete', 'curve', 'delete', 'update']}
+{'ORG': ['txu']}
+{'ORG': ['america', 'corp', 'oil', 'gas', 'inc']}
+{'ORG': ['texaco']}
+{'ORG': ['enron', 'north', 'america', 'corp']}
+{'ORG': ['mobil', 'mobil', '                                            ', 'mobil', 'marol', 'rebecca', 'mobil']}
+{'ORG': ['please', 'forward', 'group', 'forward', 'america', 'corp', 'amanda']}
+{'ORG': ['texas', 'desk']}
+{'ORG': ['enron']}
+{'ORG': ['enron']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'gulf', 'energy']}
+{'ORG': ['abc', 'abc', 'houston', 'tx', '       ']}
+{'ORG': ['txu']}
+{'ORG': ['waha', 'waha']}
+{'ORG': ['parker', 'corp', 'enron', 'enron', 'pec', 'pec', 'lb', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'connie', 'pec', 'pec', 'mobil']}
+{'ORG': ['houston', 'exploration', '  ', 'enron', 'north', 'america', 'corp', 'nick', 'cocavessis', 'corp', 'enron', 'thomas', 'gco', 'enron', 'enron', 'basin']}
+{'ORG': ['dvn']}
+{'ORG': ['sitara', 'samson', 'lone', 'star', 'smith', 'hou', 'ect', 'exploration', 'co', 'inc', '  ']}
+{'ORG': ['knig', 'ranch', 'exxon']}
+{'ORG': ['greg', 'white', 'corp', 'enron', 'enron', 'troy', 'klussmann', 'hou', 'ect', 'ect', 'megan', 'parker', 'corp', 'enron', 'enron', 'enron', 'north', 'america', 'corp', 'megan']}
+{'ORG': ['royal', 'b', 'edmondson', 'reliantenergy']}
+{'ORG': ['fw', 'centana']}
+{'ORG': ['dave', 'enron', 'north', 'america', 'corp', 'megan', 'apache', 'tenaska']}
+{'ORG': ['el', 'paso']}
+{'ORG': ['royal', 'b', 'edmondson', 'reliantenergy']}
+{'ORG': ['l', 'morris', 'l', 'morris', 'l', 'morris', 'l', 'morris']}
+{'ORG': ['teco', 'enron', 'megan', 'parker', 'corp', 'enron', 'pat', 'clynes', 'corp', 'enron', 'enron', 'teco', 'exxon']}
+{'ORG': ['texaco']}
+{'ORG': ['fw', 'stalin', 'quote', 'stalin', 'quote']}
+{'ORG': ['enron']}
+{'ORG': ['enbridge', 'texas', 'system', 'enbridge']}
+{'ORG': ['texas', 'energy', 'reliability', 'council', 'texas', 'energy', 'reliability', 'council', 'texas', 'energy', 'reliability', 'council']}
+{'ORG': ['phillips']}
+{'ORG': ['enron', 'corp', 'relevant', 'enron', 'corp']}
+{'ORG': ['falcon', 'lone', 'star', 'lone', 'star', 'tx']}
+{'ORG': ['southern', 'union']}
+{'ORG': ['taylor', 'vance', 'l', 'cc', 'nom', 'barrett', 'resource', '    ', 'apache', 'corporation', 'white', 'petroleum', 'corp', '  ']}
+{'ORG': ['mobil', 'mobil', '                                            ', 'mobil', 'marol', 'rebecca', 'mobil']}
+{'ORG': ['\x01']}
+{'ORG': ['enron']}
+{'ORG': ['lacy', 'eye']}
+{'ORG': ['teco']}
+{'ORG': ['ferc', 'tx', ' ', 'tel']}
+{'ORG': ['jennifer', 'blay']}
+{'ORG': ['\x01', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01']}
+{'ORG': ['l', 'morris', 'parker', 'corp', 'enron']}
+{'ORG': ['valero', 'energy', 'corporation', 'texas', 'california']}
+{'ORG': ['intrastate', ' ']}
+{'ORG': ['fw', 'survivor']}
+{'ORG': ['mtbe']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['american', 'red', 'cross', 'united', 'methodist', 'church', 'united', 'methodist', 'church', 'service', 'information', 'houston', 'red', 'white', 'blue', 'shirt', 'united', 'healthgroup', 'enron', 'medical', 'network']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'tom', 'acton', 'corp', 'enron', 'enron']}
+{'ORG': ['fw', 'guadalupe', 'power', 'enron', 'north', 'america', 'corp', ' ', 'smith']}
+{'ORG': ['doc', 'nomination', 'doc']}
+{'ORG': ['feb', 'midcon', 'tina', 'valadez', 'feb', 'midcon', 'invoice', 'forward', 'tina', 'valadez', 'hou', 'ect', 'feb', 'midcon', 'texas', 'gas', 'services', 'corp', '        ', 'midcon', 'texas', 'gas', 'service', 'texas', 'pipeline', 'corp', '       ', 'tina', 'valadez']}
+{'ORG': ['karen', 'lindley', 'corp', 'enron', 'katy', 'gas']}
+{'ORG': ['texas', 'flow']}
+{'ORG': ['gordon', 'heaney', 'corp', 'enron', 'enron', 'pat', 'clynes', 'corp', 'enron', 'enron', 'rita', 'nat']}
+{'ORG': ['mobil', 'mobil', 'mobil', 'mobil', 'mobil', 'mobil']}
+{'ORG': ['ponton', '      ']}
+{'ORG': ['txu']}
+{'ORG': ['americas', 'inc']}
+{'ORG': ['ponton']}
+{'ORG': ['consult', 'inc', '   ']}
+{'ORG': ['ferc', 'enron', 'north', 'america', 'corp', 'duane', 'ferc', 'duane', 'fritz', 'corp', 'enron', 'enron']}
+{'ORG': ['southern', 'union']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['jungle', 'update', 'info']}
+{'ORG': ['north', 'central', 'oil', 'corp', '  ']}
+{'ORG': ['morgan', 'begin', 'st', 'megan', 'kim', 'morgan', 'mobil']}
+{'ORG': ['tx', 'texas', 'partners', ' ']}
+{'ORG': ['enron', 'corp']}
+{'ORG': ['enron']}
+{'ORG': ['patsy', 'midcon', 'kindermorgan']}
+{'ORG': ['dave', 'n']}
+{'ORG': ['fw', 'revise']}
+{'ORG': ['mobil', 'mobil', 'mobil']}
+{'ORG': ['budget', 'questionaire', 'update']}
+{'ORG': ['pat', 'clynes']}
+{'ORG': ['texaco']}
+{'ORG': ['houston', 'tx', 'compaq', 'center', ' ', 'charlotte', 'nc', 'coliseum']}
+{'ORG': ['megan', 'parker', 'corp', 'enron', 'enron', 'cc']}
+{'ORG': ['united', 'oil', 'mineral', 'inc', 'chapman', 'united', 'oil', 'mineral', 'inc', '   ', 'enron', 'north', 'america', 'corp', 'melissa', 'jennifer', 'blay', 'hou', 'ect', 'united', 'oil', 'mineral', 'inc', 'chapman']}
+{'ORG': ['scott', 'request', 'schulte', 'corp', 'enron', 'enron', 'david', 'shawna', 'johnson', 'corp', 'enron', 'enron']}
+{'ORG': ['doc', 'nomination', 'doc']}
+{'ORG': ['forward', 'megan', 'parker', 'corp', 'enron', 'parker', 'corp', 'enron', 'enron', 'cc', 'cornhusker']}
+{'ORG': ['el', 'sordo', 'parker', 'corp', 'enron', 'enron', 'north', 'america', 'corp', 'megan', 'megan', 'forward', 'megan', 'parker', 'corp', 'enron']}
+{'ORG': ['texaco']}
+{'ORG': ['exxon', 'katy', 'location']}
+{'ORG': ['pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'mobil']}
+{'ORG': ['cornhusker', 'lone', 'star']}
+{'ORG': ['fw', 'fw', 'march', 'mary', 'ellenberger', 'corp', 'enron', 'enron', 'fw', 'fw', 'march']}
+{'ORG': ['entex', 'nom', 'lone', 'star']}
+{'ORG': ['tenaska', 'tenaska', 'williams', 'apache', 'invoice', 'owe', 'enron', 'texas', 'partners', 'ltd']}
+{'ORG': ['forward', 'megan', 'parker', 'corp', 'enron']}
+{'ORG': ['fw', 'playgroup', 'young', 'family', 'church', 'party']}
+{'ORG': ['mobil']}
+{'ORG': ['el', 'paso', 'el', 'paso']}
+{'ORG': ['wagner', 'brown', 'cornelius']}
+{'ORG': ['mark', 'mccoy', 'corp', 'enron', 'enron', 'edward']}
+{'ORG': ['mccoy', 'corp', 'enron', 'severson']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['united', 'airlines', 'u', 'point', 'united', 'airlines', 'united', 'shuttle', 'united', 'express', 'alaska', 'canada', 'hawaii']}
+{'ORG': ['tenaska']}
+{'ORG': ['txu']}
+{'ORG': ['regency', 'hill', 'country', 'resort', 'hyatt', 'regency', 'hill', 'country', 'resort', 'limited', 'block']}
+{'ORG': ['fw', 'unify']}
+{'ORG': ['basf']}
+{'ORG': ['phillips', 'petroleum', 'petrol', 'corp']}
+{'ORG': ['gasmsgboard', 'corp', 'enron', 'dutch', 'quigley']}
+{'ORG': ['ponton']}
+{'ORG': ['enron', 'capital', 'trade', 'resources', 'corp', 'steve']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'stacey', 'neuweiler', 'tx']}
+{'ORG': ['tenaska', 'gas', 'management']}
+{'ORG': ['villanueva', 'enron', 'london']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'sally', 'shuler']}
+{'ORG': ['houston', 'anderson', 'hospital']}
+{'ORG': ['l', 'morris', 'l', 'morris', 'l', 'morris']}
+{'ORG': ['panenergy']}
+{'ORG': ['nathan', 'l', 'hlavaty']}
+{'ORG': ['u', 'postal', 'service', 'tx', 'tm', 'program']}
+{'ORG': ['gulf', 'energy', 'tejas']}
+{'ORG': ['america', 'corp']}
+{'ORG': ['tenaska']}
+{'ORG': ['\x01', 'beaumont', 'methanol', '\x01']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'pat', 'clynes']}
+{'ORG': ['tenaska']}
+{'ORG': ['doc']}
+{'ORG': ['nomination', 'eastran', 'mobil', 'mobil', 'mobil']}
+{'ORG': ['informaiton']}
+{'ORG': ['delta', 'xclmdz', 'purchase', 'u', 'dollar', 'houston', 'bush', 'intercontl', 'tx', ' ', 'united', 'states', 'phone', ' ']}
+{'ORG': ['orleans', 'inc', 'new', 'orleans', 'inc', '    ', 'orleans', 'inc', 'new', 'orleans', 'inc', '    ', 'orleans', 'inc', 'new', 'orleans', 'inc', '    ', 'orleans', 'inc', 'new', 'orleans', 'inc', '    ', 'orleans', 'inc', 'new', 'orleans', 'inc', '    ', 'orleans', 'inc', 'new', 'orleans', 'inc', '    ', 'hunt', 'lydia', 'hunt', 'lydia', '    ']}
+{'ORG': ['change', 'bank', 'lloyds', 'tsb', 'citibank']}
+{'ORG': ['fw', 'calpine', 'daily']}
+{'ORG': ['delete', 'update']}
+{'ORG': ['mobil', 'mobil']}
+{'ORG': ['tom', 'acton', 'corp', 'enron', 'enron']}
+{'ORG': ['enron', 'north', 'america', 'corp']}
+{'ORG': ['doc', 'merry', 'byington']}
+{'ORG': ['\x01', '\x01', 'enron', 'geographic', '\x01', '\x01']}
+{'ORG': ['megan', 'parker', 'corp', 'enron', 'enron', 'enron', 'north', 'america', 'corp', 'megan', 'megan', 'parker', 'corp', 'enron', 'enron', 'enron', 'north', 'america', 'corp', 'megan']}
+{'ORG': ['southern', 'union']}
+{'ORG': ['tenaska']}
+{'ORG': ['texas', 'budget', 'meeting', 'texas', 'budget', 'lisa']}
+{'ORG': ['mtbe', 'morgan', 'point']}
+{'ORG': ['writeoff', 'writeoff']}
+{'ORG': ['enron', 'development', 'enron', 'development', 'eu']}
+{'ORG': ['doc', 'nomination', 'doc']}
+{'ORG': ['texas', 'desk', 'position']}
+{'ORG': ['mobil', 'mobil', 'mobil', 'mobil', 'mobil', 'mobil']}
+{'ORG': ['columbus', 'energy', 'deal', 'fyi', 'daren', 'tom', 'acton', 'corp', 'enron', 'enron', 'columbus', 'energy', 'columbus', 'energy', 'corp', '  ']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'pat', 'clynes']}
+{'ORG': ['doc']}
+{'ORG': ['dbq']}
+{'ORG': ['nom', 'barrett', 'resource', '    ', 'apache', 'corporation', 'white', 'petroleum', 'corp', '  ']}
+{'ORG': ['fw', 'deal', 'enron', 'corp', 'global', 'contract']}
+{'ORG': ['enron', 'capital', 'management']}
+{'ORG': ['enron', 'board', 'enron', 'corp', 'savings', 'plan', 'amendment']}
+{'ORG': ['gulf', 'coast', 'pipeline', 'company', 'dyersdale', 'area', 'harris', 'enron', 'north', 'america', 'corp', 'mike', 'morris', 'corp', 'enron', 'enron', 'gulf', 'coast']}
+{'ORG': ['eu', 'eu', 'texas', 'desk', 'gas']}
+{'ORG': ['shell', 'houston', 'gras', 'party']}
+{'ORG': ['kemp', 'juliann']}
+{'ORG': ['wal', 'mart', 'trollin', 'motor', 'l']}
+{'ORG': ['jan', ' ', 'texas', 'general', 'land', 'office', 'texas', 'general', 'land', 'office']}
+{'ORG': ['\x01', 'japan', 'australia', '\x01', '\x01', '\x01', '\x01', 'enron', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01']}
+{'ORG': ['enron', 'nom']}
+{'ORG': ['scott', 'mill']}
+{'ORG': ['katy', 'plant', 'customer']}
+{'ORG': ['texas', 'utilities']}
+{'ORG': ['enron', 'methanol', 'meter']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'yvette', 'g', 'g', 'connevey']}
+{'ORG': ['fw', 'new', 'enron', 'north', 'america', 'corp', 'seller', 'enron', 'north', 'america', 'corp', 'intras', 'waha', 'area', 'section']}
+{'ORG': ['megan']}
+{'ORG': ['enron']}
+{'ORG': ['fwd', 'fw', 'fwd', 'fw', 'fwd']}
+{'ORG': ['ponton']}
+{'ORG': ['senate', 'enron', 'corp', 'creditor', 'corp', 'one', 'senate', 'ubs', 'ag', 'citigroup', 'inc', 'bp', 'make', 'royal', 'bank', 'scotland', 'group', 'plc', 'senate', 'u', 'securities', 'exchange', 'commission', 'labor', 'department', 'investigate', 'house', 'financial', 'services', 'committee', 'senate', 'commerce', 'committee', 'house', 'senate']}
+{'ORG': ['gmt', 'inc', 'oooop', 'tom', 'acton', 'corp', 'enron', 'enron', 'gmt', 'inc', '  ']}
+{'ORG': ['tom', 'acton', 'corp', 'enron', 'enron', 'enron', 'north', 'america', 'corp', 'melissa', 'tom', 'acton', 'corp', 'enron', 'enron', 'nathan', 'l', 'hlavaty']}
+{'ORG': ['schulte', 'corp', 'enron', 'enron', 'david', 'shawna', 'johnson', 'corp', 'enron', 'enron']}
+{'ORG': ['petroleum', 'corp', '  ']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'doc']}
+{'ORG': ['redir', 'cqo', 'redir', 'cqo', 'u', 'canada', 'country', 'product', 'company']}
+{'ORG': ['fw', 'duke', 'energy', 'field', 'service', 'fw', 'duke', 'energy', 'field', 'service']}
+{'ORG': ['lobo', 'payout', 'payback', 'enron', 'corp', 'relevant', 'enron', 'corp']}
+{'ORG': ['mccoy', 'corp', 'enron', 'severson']}
+{'ORG': ['tenaska', 'gas', 'management']}
+{'ORG': ['teco']}
+{'ORG': ['america', 'corp', 'mcloughlin', 'corp', 'enron']}
+{'ORG': ['coastal', 'deal', 'exxon', 'participation', 'project', 'agreement', 'exxon']}
+{'ORG': ['workbench']}
+{'ORG': ['tom', 'acton', 'corp', 'enron', 'enron']}
+{'ORG': ['juliann']}
+{'ORG': ['enron', 'north', 'america', 'corp']}
+{'ORG': ['ami', 'chokshi', 'corp', 'enron', 'enron', 'cc', 'revise', 'nom', 'copano', 'small', 'keep', 'ami', 'chokshi', 'corp', 'enron', 'enron']}
+{'ORG': ['l', 'morris']}
+{'ORG': ['fw', 'field', 'service', 'office', 'elpaso', 'corporation']}
+{'ORG': ['fw', 'complaint', 'department', 'wilson', 'gregory', 'w']}
+{'ORG': ['texas', 'desk', 'request']}
+{'ORG': ['dba', 'garrison', 'ltd', 'tom', 'acton', 'corp', 'enron', 'enron', 'lp', 'dba', 'garrison', 'ltd', 'tom', 'texas', 'nom', 'lp', 'dba', 'garrison', 'ltd', '  ']}
+{'ORG': ['ami', 'chokshi', 'corp', 'enron', 'enron']}
+{'ORG': ['texas', 'utilities']}
+{'ORG': ['mcdonald', 'farm', 'easy']}
+{'ORG': ['ponton']}
+{'ORG': ['pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'ronald', 'c', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'ronald', 'c', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec']}
+{'ORG': ['inc', '    ', 'gulf', '   ']}
+{'ORG': ['meredith']}
+{'ORG': ['canada', '    ']}
+{'ORG': ['ponton', '      ']}
+{'ORG': ['l', 'morris']}
+{'ORG': ['dewbre', 'petroleum']}
+{'ORG': ['kemp', 'juliann']}
+{'ORG': ['pec', 'pec', 'pec', 'pec']}
+{'ORG': ['mobil']}
+{'ORG': ['dana', 'daigle', 'corp', 'dun', 'dana', 'daigle', 'corp', 'texas', 'hplc', 'dana', 'daigle', 'corp', 'connie', 'sutton', 'hou', 'ect', 'dana', 'daigle', 'corp', 'enron', 'enron', 'kathryn', 'cord', 'horn', 'corp', 'enron', 'enron', 'brant', 'gary', 'jr', 'associates', 'inc']}
+{'ORG': ['ponton', 'el', 'paso']}
+{'ORG': ['texaco']}
+{'ORG': ['hoston', 'hoop', 'southwest', 'airlines']}
+{'ORG': ['ford', 'ford', 'ford']}
+{'ORG': ['tx', 'texas', 'partners', ' ']}
+{'ORG': ['ponton']}
+{'ORG': ['southern', 'union']}
+{'ORG': ['fw', 'cornhusker', 'lone', 'star', 'megan']}
+{'ORG': ['ami']}
+{'ORG': ['texas', 'desk', 'schedule']}
+{'ORG': ['enron', 'charlie', 'stone', 'texas', 'utilities', 'teco', 'teco', 'teco']}
+{'ORG': ['enron', 'north', 'america', '\x01', 'bowen', '\x01', '\x01', '\x01', '\x01', 'treasury', '\x01', '\x01', 'enron', 'corp', 'global', 'finance']}
+{'ORG': ['enron', 'corp', 'relevant', 'enron', 'corp']}
+{'ORG': ['dupont', 'beamont', 'methanol', 'dupont', 'dupont', 'beaumont', 'methanol', 'dupont', 'beaumont', 'methanol', 'beaumont', 'methanol', 'beaumont', 'methanol']}
+{'ORG': ['\x01', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', 'california', '\x01', '\x01', 'california', '\x01', '\x01', '\x01', '\x01']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'kelly', 'templeton', 'corp', 'enron', 'enron', 'lynn', 'jordan', 'corp', 'enron', 'enron', 'texas', 'team']}
+{'ORG': ['shanghai', 'common', 'point']}
+{'ORG': ['hgm', 'hgm']}
+{'ORG': ['texas', 'ena', 'system']}
+{'ORG': ['texas', 'ena', 'system']}
+{'ORG': ['tom', 'acton', 'corp', 'enron', 'enron']}
+{'ORG': ['tenaska']}
+{'ORG': ['texas', 'gas', 'settlement']}
+{'ORG': ['vastar', 'resource', 'inc', 'vastar', 'resource', 'inc', 'carlos', 'vastar', 'resource', 'inc', 'darren', 'nomination', 'vastar', 'resource', 'inc']}
+{'ORG': ['fw', 'weygandt', 'andrew', 'glover', 'rusty', 'beard', 'jaime', 'woodson', 'texas', 'university', 'texas', 'student', 'faculty', 'medium', 'texas', 'storyline']}
+{'ORG': ['pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec']}
+{'ORG': ['beaumont', 'methanol']}
+{'ORG': ['mobil']}
+{'ORG': ['writeoff', 'writeoff']}
+{'ORG': ['l', 'morris', 'mccoy', 'corp', 'enron']}
+{'ORG': ['teco', 'teco', 'teco', 'enron', 'north', 'america', 'corp', 'teco', 'teco', 'hplc']}
+{'ORG': ['fw', 'fw', 'march']}
+{'ORG': ['fw', 'fill', 'coo', 'americas', 'louise']}
+{'ORG': ['gulf', 'energy']}
+{'ORG': ['shuler', 'mtbe', 'morgan', 'point', 'september']}
+{'ORG': ['beaumont', 'methanol']}
+{'ORG': ['update', 'union']}
+{'ORG': ['dulce', 'thompsonville', 'product', 'detail']}
+{'ORG': ['templeton', 'corp', 'enron', 'enron']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['enron', 'corp', 'global', 'contract', 'ford', 'ford']}
+{'ORG': ['tenaska', 'tenaska']}
+{'ORG': ['texas', 'general', 'land', 'office']}
+{'ORG': ['ami', 'chokshi', 'corp', 'enron', 'enron']}
+{'ORG': ['bp']}
+{'ORG': ['txu', 'lone', 'star', 'txu', 'exxonmobil', 'corp', 'deal', 'exxonmobil', 'corp', 'deal']}
+{'ORG': ['smith', 'prepare']}
+{'ORG': ['\x01', 'datum', 'cinco', '\x01']}
+{'ORG': ['microsoft']}
+{'ORG': ['fte', 'fte']}
+{'ORG': ['tm', 'snapscan', 'tm', 'perfection', 'usb', 'bin', ' ', 'flo', 'ecp', ' ', 'bdtnxori', ' ', 'crxv', 'order', 'epson', 'perfection', 'bin', ' ', 'flo', 'ecp', ' ', 'bdtnxori', ' ']}
+{'ORG': ['citibank', 'citibank', 'citibank']}
+{'ORG': ['enron', 'north', 'america', '\x01', 'kristin', '\x01', '\x01', '\x01', '\x01', 'bandwidth', 'pulp', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', 'le', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', 'melinda', 'whalen', '\x01', 'enron', 'corp', 'office', 'enron', 'canada', 'responsibility', 'risk', 'management', 'documentation']}
+{'ORG': ['\x01']}
+{'ORG': ['picl', ' ', 'pcx', 'pico']}
+{'ORG': ['tenaska', 'texas', 'partners', 'ltd', 'texas', 'partners', 'ltd', 'tenaska', 'texas', 'partners', 'ltd', 'tenaska', 'texas', 'partners', 'ltd', 'tenasksa', 'tenaska', 'iv', 'inc', 'manage']}
+{'ORG': ['pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'connie', 'pec', 'pec', 'ronald', 'c', 'pec', 'pec']}
+{'ORG': ['tom', 'acton', 'corp', 'enron', 'enron']}
+{'ORG': ['duke', 'mobil', 'mobil', 'mobil', 'centana', 'duke', 'mobil']}
+{'ORG': ['ponton']}
+{'ORG': ['san', 'jacinto']}
+{'ORG': ['texas', 'desk', 'schedule']}
+{'ORG': ['el', 'paso', 'txu', 'ponton']}
+{'ORG': ['tina', 'valadez', 'hou', 'ect']}
+{'ORG': ['fw', 'execute', 'texas', 'partners', 'ltd', 'aka', 'ponderosa', 'pine', 'energy', 'tenaska']}
+{'ORG': ['mobil']}
+{'ORG': ['el', 'paso', 'el', 'paso']}
+{'ORG': ['nom', 'change', 'texas', 'eastern', 'forward', 'jan', 'svajian']}
+{'ORG': ['apache', 'corp', '  ', 'el', 'paso', 'meridian', 'resource', '  ', 'g', '  ']}
+{'ORG': ['columbia']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'gary', 'pat', 'clynes', 'corp', 'enron', 'enron', 'lauri', 'allen', 'hou', 'ect']}
+{'ORG': ['texas', 'logistics', 'texas', 'logistics', 'desk']}
+{'ORG': ['america', 'corp', 'amanda', 'gasfundy', 'corp', 'enron', 'logon']}
+{'ORG': ['ponderosa', 'pine', 'energy', 'partners', 'ltd', 'brazos', 'request', 'gas']}
+{'ORG': ['texas', 'desk', 'reserve']}
+{'ORG': ['jennifer', 'blay', 'hou', 'ect', 'america', 'corp', 'jennifer', 'blay', 'hou', 'ect', 'jennifer', 'blay', 'hou', 'ect']}
+{'ORG': ['texas', 'l', 'p', 'texas', 'l', 'p', 'texas', 'l', 'p']}
+{'ORG': ['el', 'paso']}
+{'ORG': ['palmer', 'corp', 'enron', 'enron', 'elisabeth', 'mccabe', 'corp', 'enron', 'enron', 'mark', 'mark', 'koenig', 'corp', 'enron', 'enron', 'piper', 'corp', 'enron', 'enron', 'kathryn', 'corbally', 'corp', 'enron', 'enron', 'stuart', 'kevin', 'mcgowan', 'corp', 'enron', 'enron']}
+{'ORG': ['tec', 'energy', 'corp', 'adrrf', 'beau', 'canada', 'exploration', 'ltd', 'canfibre', 'group', 'ltd', 'cfgl', 'carrizo', 'oil', 'gas', 'inc', 'crzo', 'costilla', 'industrial', 'holding', 'inc', 'ihii', 'inland', 'resource', 'inc', 'kafus', 'environmental', 'industry', 'inc', 'resource', 'inc', 'quanta', 'services', 'inc', 'pwr', 'sand', 'resource', 'inc', 'qsri', 'quicksilver', 'resources', 'inc', 'kwk', 'saxon', 'petroleum', 'inc', 'sxn', 'startech', 'seh', 'cn', 'syntroleum', 'corp', 'tejon', 'ranch', 'corp', 'trc', 'tdi', 'transcoastal', 'marine', 'service', 'inc', 'tcms', 'enron', 'corp', 'risk', 'enron', 'corp', 'risk', 'enron', 'corp', 'conduct']}
+{'ORG': ['fw', 'update']}
+{'ORG': ['enron', 'north', 'america', 'corp']}
+{'ORG': ['tenaska']}
+{'ORG': ['costilla', 'send']}
+{'ORG': ['tenaska']}
+{'ORG': ['change', 'bank', 'lloyds', 'tsb', 'citibank']}
+{'ORG': ['tom', 'acton', 'corp', 'enron', 'enron']}
+{'ORG': ['tx', 'texas', 'partners', ' ']}
+{'ORG': ['houston', '\x01', 'enron', 'corp', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', 'ein', '\x01', '\x01', '\x01', '\x01', 'enron', 'communication', 'inc', '\x01', '\x01', 'bandwidth', 'enron', 'corp', 'nyse', 'ene', 'enron', '\x01', '\x01', 'ene', '\x01']}
+{'ORG': ['texoma', 'mobil', 'mobil', 'mobil']}
+{'ORG': ['workbench', 'woodworke']}
+{'ORG': ['fw', 'enron']}
+{'ORG': ['juliann']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'north', 'america', 'corp', 'pat', 'clynes']}
+{'ORG': ['ami', 'chokshi', 'corp', 'enron', 'enron']}
+{'ORG': ['pat', 'clynes', 'corp', 'pat', 'clynes', 'corp']}
+{'ORG': ['mtbe', 'morgan', 'point']}
+{'ORG': ['mobil']}
+{'ORG': ['graham', 'corp', 'enron', 'enron', 'cc', 'job']}
+{'ORG': ['san', 'jacinto']}
+{'ORG': ['rhone', 'corp', 'enron', 'enron']}
+{'ORG': ['tm', 'program', 'point', 'point']}
+{'ORG': ['enron', 'corp', 'relevant', 'enron', 'corp']}
+{'ORG': ['reuters', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01']}
+{'ORG': ['ponton']}
+{'ORG': ['enron']}
+{'ORG': ['teco', 'waha', ' ', 'pgtt', 'svs']}
+{'ORG': ['meredith', 'mitchell', 'hou', 'ect', 'franklin', 'corp', 'enron', 'enron', 'jackie', 'young', 'hou', 'ect', 'cynthia', 'franklin', 'corp', 'enron', 'enron']}
+{'ORG': ['pat', 'ena', 'buyer', 'hplc']}
+{'ORG': ['feb', 'midcon', 'tina', 'valadez', 'feb', 'midcon', 'invoice', 'forward', 'tina', 'valadez', 'hou', 'ect', 'feb', 'midcon', 'texas', 'gas', 'services', 'corp', '        ', 'midcon', 'texas', 'gas', 'service', 'texas', 'pipeline', 'corp', '       ', 'tina', 'valadez']}
+{'ORG': ['america', 'corp', 'enron', 'north', 'america', 'corp']}
+{'ORG': ['enron', 'methanol', 'maro', ' ', 'siatar', ' ', 'enron', 'methanol']}
+{'ORG': ['edward', 'gottlob', 'hou', 'ect', 'pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['duke', 'exchange']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'mark', 'mccoy', 'corp', 'enron', 'enron', 'tenaska', 'tenaska']}
+{'ORG': ['nathan', 'l', 'hlavaty']}
+{'ORG': ['exxon', 'katy']}
+{'ORG': ['texas', 'asset', 'duke', 'tina', 'valadez', 'hou', 'ect']}
+{'ORG': ['texas', 'general', 'darren']}
+{'ORG': ['abbasi', 'ford', 'kickoff', 'abbasi', 'chris', 'hanz', 'corp', 'enron', 'enron']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['communication', 'united', 'healthcare', 'enron', 'united', 'healthcare', 'united', 'healthcare', 'enron']}
+{'ORG': ['panenergy', '  ', 'daren', 'exchange', 'meter', 'exchange']}
+{'ORG': ['fw', 'call']}
+{'ORG': ['tu', 'gepl', 'plant', 'effective']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'hplc', 'purchase', 'w', 'pickett', '  ', 'lamay', 'corp', 'white', 'petroleum', '  ']}
+{'ORG': ['cynthia', 'franklin', 'corp', 'enron', 'enron']}
+{'ORG': ['texaco', 'texaco']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['l', 'p', 'e', 'transportation', 'exchange', 'etn', '  ', 'mailto', 'perez', 'jr', 'usa']}
+{'ORG': ['enron']}
+{'ORG': ['nomination', 'doc']}
+{'ORG': ['american', 'express', 'w', 'ellis', 'cfp', 'tm', 'clu', 'chfc', 'american', 'express']}
+{'ORG': ['texas', 'general']}
+{'ORG': ['enron']}
+{'ORG': ['louisiana', 'resources', 'pipeline', 'company', 'denver', 'company', 'fort', 'union', 'l', 'p']}
+{'ORG': ['writeoff', 'writeoff']}
+{'ORG': ['flow', 'hplc']}
+{'ORG': ['camille', 'gerard', 'corp', 'enron', 'enron', 'anderson', 'corp', 'enron', 'enron', 'beth', 'apollo', 'lon', 'flanagan', 'corp', 'enron', 'enron', 'stacey', 'richardson', 'hou', 'ect', 'anne', 'bike', 'corp', 'pat', 'clynes', 'corp', 'enron', 'enron', 'marilyn', 'ford', 'liz', 'hillman', 'corp', 'enron', 'enron', 'nathan', 'l', 'hlavaty', 'corey', 'hobbs', 'corp', 'enron', 'enron', 'dutch', 'quigley', 'hou', 'ect', 'brad', 'schneider', 'corp', 'enron', 'enron', 'dianne', 'seib', 'cal', 'ect', 'ect', 'cris', 'vargas', 'corp', 'enron', 'enron']}
+{'ORG': ['teco']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'gary', 'pat', 'clynes', 'corp', 'enron', 'enron', 'lauri', 'allen', 'hou', 'ect', 'enron', 'north', 'america', 'corp', 'gary', 'pat', 'clynes', 'corp', 'enron', 'enron', 'lauri', 'allen', 'hou', 'ect']}
+{'ORG': ['estimate', 'josey', 'ranch', 'nomination', 'month', 'kcs', 'energy', 'inc', ' ', 'san', 'felipe', 'suite']}
+{'ORG': ['tackett', 'mailto', 'rtackett', 'abacustech', 'net']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'tivoli', 'enron', 'north', 'america', 'corp']}
+{'ORG': ['briden', 'chris', 'watts', 'watts']}
+{'ORG': ['jan', ' ', 'texas', 'general', 'land', 'office']}
+{'ORG': ['royal', 'b', 'edmondson', 'reliantenergy']}
+{'ORG': ['tx', 'texas', 'partners', ' ']}
+{'ORG': ['mark', 'mccoy', 'corp', 'enron', 'enron', 'clem', 'cernosek', 'hou', 'ect']}
+{'ORG': ['park']}
+{'ORG': ['el', 'paso', 'el', 'paso']}
+{'ORG': ['l', 'morris', 'l', 'morris', 'l', 'morris']}
+{'ORG': ['tenaska', 'tenaska', 'mark', 'mccoy', 'corp', 'enron', 'enron']}
+{'ORG': ['l', 'morris', 'charlotte', 'hawkin', 'hou', 'ect', 'pat', 'clynes', 'corp', 'enron', 'enron', 'revision', 'l', 'morris']}
+{'ORG': ['shuler', 'morgan', 'point']}
+{'ORG': ['aimee']}
+{'ORG': ['logon', 'north', 'password', 'enron']}
+{'ORG': ['tom', 'acton', 'corp', 'enron', 'enron']}
+{'ORG': ['jennifer', 'blay', 'hou', 'ect']}
+{'ORG': ['royal', 'b', 'edmondson', 'reliantenergy']}
+{'ORG': ['brazos']}
+{'ORG': ['mips', 'pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['tenaska', 'clynes', 'corp', 'enron', 'enron', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['lisa', 'lunz', 'corp', 'enron', 'enron', 'susie', 'orsak', 'corp', 'enron', 'enron', 'susie', 'orsak', 'corp', 'enron', 'enron', 'pollack', 'corp', 'enron', 'enron', 'rabia', 'basit', 'corp', 'enron', 'enron', 'carol', 'carter', 'hou', 'ect', 'venita', 'coleman', 'corp', 'enron', 'enron', 'nick', 'cocavessis', 'corp', 'enron', 'enron', 'morela', 'hernandez', 'corp', 'gco', 'enron', 'enron', 'stephanie', 'miller', 'corp', 'enron', 'enron', 'rebecca', 'w', 'cantrell', 'john', 'hodge', 'corp', 'enron', 'enron', 'janet', 'edwards', 'corp', 'enron', 'tom', 'acton', 'corp', 'enron', 'enron', 'clem', 'cernosek', 'hou', 'ect', 'pat', 'clynes', 'corp', 'enron', 'enron', 'george', 'grant', 'hou', 'ect', 'mark', 'mccoy', 'corp', 'enron', 'enron', 'l', 'morris', 'nathan', 'l', 'hlavaty', 'green', 'corp', 'enron', 'enron', 'kenneth', 'w', 'kaase', 'john', 'miska', 'gco', 'enron', 'enron', 'kenny', 'brooks', 'gco', 'enron', 'enron', 'chris', 'riegler', 'corp', 'enron', 'enron', 'kim', 'weldon', 'corp', 'enron', 'enron', 'eric', 'h', 'mason', 'corp', 'enron', 'enron', 'trade', 'crook', 'corp', 'enron', 'enron', 'bryan', 'hull', 'hou', 'ect', 'paul', 'couvillon', 'corp', 'ect', 'megan', 'parker', 'corp', 'enron', 'enron', 'staab', 'corp', 'enron', 'enron', 'gulf', 'coast']}
+{'ORG': ['dutch', 'quigley', 'hou', 'ect']}
+{'ORG': ['ponton']}
+{'ORG': ['motorola', 'nokia', 'tm', 'program', 'point', 'point']}
+{'ORG': ['morgan', 'stanley']}
+{'ORG': ['dun', 'cinergy', 'resources', 'inc', '   ', 'energy', 'dynamics', 'management', 'inc', '   ', 'us', 'inc', '   ']}
+{'ORG': ['txu']}
+{'ORG': ['petroleum', 'corp', '  ']}
+{'ORG': ['ergon', 'exploration']}
+{'ORG': ['enron', 'capital', 'management']}
+{'ORG': ['ponton']}
+{'ORG': ['texas', 'gas', 'services', 'corp', '        ', 'midcon', 'texas', 'gas', 'service', 'texas', 'pipeline', 'corp', '       ', 'tina', 'valadez']}
+{'ORG': ['carol', 'poe']}
+{'ORG': ['meredith']}
+{'ORG': ['shuler', 'mtbe', 'morgan', 'point', 'december']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'megan']}
+{'ORG': ['corp', 'columbus']}
+{'ORG': ['st', 'elizabeth', 'soto']}
+{'ORG': ['enron', 'north', 'america', 'corp']}
+{'ORG': ['enron']}
+{'ORG': ['murphy', 'melissa', 'ann', 'allen', 'edith', 'wiesepape', 'jason']}
+{'ORG': ['pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'connie', 'pec', 'pec']}
+{'ORG': ['ponton']}
+{'ORG': ['royal', 'b', 'edmondson', 'reliantenergy']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'enron', 'north', 'america', 'corp', 'pat', 'clynes']}
+{'ORG': ['u', 'foot', 'locker', 'canada', 'locker', 'canada']}
+{'ORG': ['beaumont', 'methanol', 'invoice', 'vs', 'chyral', 'hankin', 'e']}
+{'ORG': ['gasmsgboard', 'corp', 'enron', 'ect', 'dutch', 'quigley', 'hou', 'ect', 'abramo', 'corp', 'enron', 'enron', 'danny', 'conner', 'smith', 'corp', 'enron', 'enron', 'goodell', 'corp', 'enron', 'enron', 'troy', 'black', 'corp', 'enron', 'enron', 'tammi', 'depaoli', 'corp', 'enron', 'enron', 'sean', 'boyle', 'corp', 'enron', 'enron', 'fangme', 'zhu', 'corp', 'enron', 'enron', 'gasmsgboard', 'corp', 'enron', 'dutch', 'quigley']}
+{'ORG': ['microsoft', 'microsoft']}
+{'ORG': ['delete', 'disregard']}
+{'ORG': ['schulte', 'corp', 'enron', 'enron', 'david', 'shawna', 'johnson', 'corp', 'enron', 'enron']}
+{'ORG': ['logon', 'dev', 'corp', 'enron']}
+{'ORG': ['ect', 'megan', 'parker', 'corp', 'enron', 'ect', 'megan', 'parker', 'corp', 'enron']}
+{'ORG': ['pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec']}
+{'ORG': ['ponton', '      ', 'tu', 'melissa', 'jones']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'pgev', 'hub', 'title', 'tracking']}
+{'ORG': ['fw', 'duke']}
+{'ORG': ['jillian', 'l', 'morris', 'mark', 'mccoy', 'corp', 'enron', 'enron', 'clem', 'cernosek', 'hou', 'ect']}
+{'ORG': ['fw', 'deal']}
+{'ORG': ['flow', 'volume', 'oxy']}
+{'ORG': ['tenaska']}
+{'ORG': ['estimate', 'josey', 'ranch', 'nomination', 'month', 'kcs', 'energy', 'inc', ' ', 'san', 'felipe', 'suite']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['doc', 'nomination', 'doc']}
+{'ORG': ['tenaska', 'clynes', 'corp', 'enron', 'enron', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['\x01', '\x01']}
+{'ORG': ['lisa', 'staab', 'theresa', 'farmer', 'daren', 'match', 'nomination', 'texas', 'eastern', 'pipeline']}
+{'ORG': ['global', 'helmerich', 'payne', 'inc', '  ', 'nathan', 'l', 'hlavaty']}
+{'ORG': ['charles', 'ward', 'corp', 'enron', 'enron']}
+{'ORG': ['southern', 'union', 'ferc', 'ferc', 'southern', 'union', 'ferc', 'southern', 'union', 'southern', 'union', 'ferc', 'southern', 'union', 'el', 'paso', 'field', 'service', 'ferc', 'el', 'paso', 'texas', 'southern', 'union', 'ferc', 'southern', 'union', 'ferc']}
+{'ORG': ['coastal', 'oil', 'gas', 'corporation', 'tx', 'hillary', 'mack', 'corp', 'enron', 'enron', 'tx', 'albrecht', 'coastal', 'oil', 'gas', 'corp', 'america', 'corp', 'tx', 'america', 'corp', 'tx', 'george', 'note', 'hplc', 'enron', 'north', 'america', 'corp', 'tx', 'albrecht', 'tx', 'albrecht', 'albrecht', 'lal', 'tx', 'albrecht', 'albrecht', 'hoff', 'heller', 'gas', 'albrecht', 'enron', 'north', 'america', 'corp', 'lisa']}
+{'ORG': ['juliann', 'chance']}
+{'ORG': ['writeoff', 'writeoff']}
+{'ORG': ['megan']}
+{'ORG': ['morgan', 'point']}
+{'ORG': ['mobil', 'marol', 'rebecca', 'mobil']}
+{'ORG': ['enron', 'methanol', 'mtbe', 'morgan', 'point']}
+{'ORG': ['teco']}
+{'ORG': ['gasper', 'rice', 'resource', 'ltd', 'vance', 'sitara', 'gasper', 'rice', 'ltd', 'hplc', 'samson', 'lone', 'star', 'gasper', 'rice', 'ltd', ' ']}
+{'ORG': ['fw', 'low', 'colorado', 'river', 'authority']}
+{'ORG': ['txu', 'ami', 'chokshi', 'corp', 'enron', 'enron']}
+{'ORG': ['charlotte', 'hawkin', 'enron']}
+{'ORG': ['bear', 'presbyterian']}
+{'ORG': ['jen', 'home', 'waco', 'year', 'fun']}
+{'ORG': ['waha', 'book', 'set', 'internal', 'counterparty']}
+{'ORG': ['dun', 'dana', 'daigle', 'corp', 'texas', 'hplc', 'dana', 'daigle', 'corp', 'connie', 'sutton', 'hou', 'ect', 'dana', 'daigle', 'corp', 'enron', 'enron', 'kathryn', 'cord', 'horn', 'corp', 'enron', 'enron', 'brant', 'gary', 'jr', 'associates', 'inc']}
+{'ORG': ['beck', 'group', 'yvonne', 'beck', 'group', 'janet', 'de', 'la', 'paz', 'admin']}
+{'ORG': ['sherlyn', 'schumack', 'sr', 'specialist', 'volume', 'management']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'pgev', 'hub', 'title', 'tracking']}
+{'ORG': ['duke', 'exchange']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'rita']}
+{'ORG': ['feb', ' ', 'estimate', 'josey', 'ranch', 'nomination', 'month']}
+{'ORG': ['america', 'corp', 'texas', '   ', 'eex', 'corp', 'corp', '   ']}
+{'ORG': ['enron', 'north', 'america', 'corp']}
+{'ORG': ['defs', 'purchase', 'teco', 'teco', 'ponton']}
+{'ORG': ['match', 'nomination', 'texas', 'eastern', 'pipeline']}
+{'ORG': ['ami']}
+{'ORG': ['texas', 'texas', 'texas', 'texas', 'hplc', 'texas', 'texas', 'texas', 'hplc', 'texas', 'position', 'waha', 'texas', 'position', 'hplc', 'texas', 'hplc', 'texas', 'hplc', 'enron', 'capital', 'management', 'texas', 'desk']}
+{'ORG': ['petroleum', 'corp', '  ', 'petroleum', 'corp', '  ']}
+{'ORG': ['amoco', 'energy', '  ', 'enron', 'north', 'america', 'corp', 'megan']}
+{'ORG': ['ponton']}
+{'ORG': ['forward', 'megan', 'parker', 'corp', 'enron']}
+{'ORG': ['enron', 'development', 'enron', 'development', 'eu']}
+{'ORG': ['revoir', 'prudential', 'texas', ' ', 'voice']}
+{'ORG': ['frontrea', 'plant', 'gas']}
+{'ORG': ['morgan', 'stanley']}
+{'ORG': ['writeoff', 'writeoff']}
+{'ORG': ['l', 'morris', 'l', 'morris']}
+{'ORG': ['enron', 'north', 'america', 'corp']}
+{'ORG': ['teco', 'teco', 'teco']}
+{'ORG': ['fw', 'fwd', 'pam', 'wiidanen', 'suzanne', 'young', 'fwd', 'fwd', 'senate', 'senate', 'senate', 'senate', 'wright', 'pastor']}
+{'ORG': ['doc']}
+{'ORG': ['mirror', 'nomination', 'redelivery', 'point', 'kcs', 'energy', 'inc', ' ', 'san', 'felipe', 'suite']}
+{'ORG': ['ec', ' ', 'ec', ' ']}
+{'ORG': ['texas', 'plant', 'problem', 'mobil']}
+{'ORG': ['fw', 'fyi', 'texas', 'sitara', 'position', 'mgr', 'end']}
+{'ORG': ['logon']}
+{'ORG': ['l', 'morris', 'boas', 'hou', 'ect', 'l', 'morris', 'jan', ' ', 'forward', 'stella', 'l', 'morris', 'l', 'morris', 'l', 'morris']}
+{'ORG': ['\x01', '\x01', 'hilton', 'sister', 'hotel', 'hilton', 'moody', 'garden', 'hotel', 'lobby', 'moody', 'garden', 'hotel', 'time', 'moody', 'garden']}
+{'ORG': ['tenaska']}
+{'ORG': ['enron', 'north', 'america', 'corp']}
+{'ORG': ['mobil']}
+{'ORG': ['apache', 'corp', 'etoco', 'inc', '    ']}
+{'ORG': ['fw', 'tribute', 'america', 'regard', 'amy', 'wilson', 'chamber', 'preston', 'united', 'states', 'toronto', 'gordon', 'sinclair', 'canadian', 'television', 'united', 'state', 'united', 'states']}
+{'ORG': ['hub', 'park']}
+{'ORG': ['allen', 'phillip', 'k', 'neal', 'scott']}
+{'ORG': ['houston', 'ship', 'channel', 'pat', 'clynes', 'corp', 'enron', 'enron', 'rita', 'enron', 'north', 'america', 'corp', 'gary', 'pat', 'clynes', 'corp', 'enron', 'enron', 'rita']}
+{'ORG': ['jennifer', 'blay', 'hou', 'ect', 'pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['ami', 'chokshi', 'corp', 'enron', 'enron']}
+{'ORG': ['beaumont', 'methanol']}
+{'ORG': ['enron', 'teco']}
+{'ORG': ['fw', 'update', 'juliann']}
+{'ORG': ['ponton']}
+{'ORG': ['pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'nomination']}
+{'ORG': ['fw', 'texas']}
+{'ORG': ['doc', 'nomination', 'doc']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'stacey', 'neuweiler', 'tx']}
+{'ORG': ['nomination', 'doc']}
+{'ORG': ['mccoy', 'corp', 'enron', 'enron', 'cc']}
+{'ORG': ['jan', 'svajian']}
+{'ORG': ['teco', 'trading', 'conf', 'gardner', 'stephanie', 'teco', 'trading', 'conf', 'call']}
+{'ORG': ['txu']}
+{'ORG': ['conoco', 'inc', 'katy']}
+{'ORG': ['l', 'morris', 'l', 'morris']}
+{'ORG': ['enron']}
+{'ORG': ['mobil']}
+{'ORG': ['dave', 'enron', 'north', 'america', 'corp', 'megan', 'apache', 'tenaska']}
+{'ORG': ['microsoft']}
+{'ORG': ['ami', 'chokshi', 'corp', 'enron', 'enron']}
+{'ORG': ['scott', 'mills', 'aneela', 'sharma', 'stuart', 'mark', 'symms', 'meredith', 'ford', 'parker', 'thais']}
+{'ORG': ['exxon']}
+{'ORG': ['pec', 'pec', 'dfarmer', 'enron', 'houston', 'pefs', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'poe', 'pec', 'pec', 'pec']}
+{'ORG': ['sarco', 'lateral', 'crow']}
+{'ORG': ['nathan', 'l', 'hlavaty', 'pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['tenaska']}
+{'ORG': ['tenaska']}
+{'ORG': ['wassup', 'south', 'park']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'rita', 'mccoy', 'corp', 'enron']}
+{'ORG': ['u', 'postal', 'service', 'tm', 'program']}
+{'ORG': ['texas', 'desk', 'gas']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'suzanne', 'nicholie', 'ford', 'errol', 'mclaughlin', 'corp', 'enron', 'enron', 'fte']}
+{'ORG': ['mips', 'mips', 'mips', 'mips', 'charlotte', 'hawkin', 'forward', 'charlotte', 'hawkin', 'hou', 'ect', 'pat', 'clynes', 'corp', 'enron', 'enron', 'bryan', 'hull', 'hou', 'ect']}
+{'ORG': ['tu', 'gepl', 'plant', 'effective']}
+{'ORG': ['enron']}
+{'ORG': ['u', 'postal', 'service', 'tm', 'program']}
+{'ORG': ['pan', 'energy', 'exchange']}
+{'ORG': ['writeoff', 'writeoff']}
+{'ORG': ['aimee']}
+{'ORG': ['ergon']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'lisa', 'pat', 'clynes', 'corp', 'wagner', 'brown', 'ltd', '  ', 'wagner', 'brown', 'ltd']}
+{'ORG': ['ocean', 'star', 'doc']}
+{'ORG': ['tx']}
+{'ORG': ['tenaska', 'megan', 'forward', 'megan', 'parker', 'corp', 'enron', '     ', 'parker', 'corp', 'enron', 'enron']}
+{'ORG': ['fyi', 'union']}
+{'ORG': ['pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec']}
+{'ORG': ['mastercard']}
+{'ORG': ['ponton', 'melissa', 'jones', 'texas', 'utilities', 'ponton', 'charlie', 'stone', 'ponton']}
+{'ORG': ['enron', 'north', 'america', 'corp']}
+{'ORG': ['exxon', 'katy']}
+{'ORG': ['netco', 'netco', 'texas', ' ', 'l', 'cc', 'jackson', 'netco']}
+{'ORG': ['mark', 'mccoy', 'corp', 'enron', 'enron']}
+{'ORG': ['tenaska', 'parker', 'corp', 'enron']}
+{'ORG': ['enron', 'sec', 'sec', 'sec', 'enron', 'corp', ' ', 'smith', 'sec', 'sec']}
+{'ORG': ['teco']}
+{'ORG': ['hgm']}
+{'ORG': ['teco']}
+{'ORG': ['williams', 'apache', 'tenaska']}
+{'ORG': ['texas', 'desk', 'request']}
+{'ORG': ['america', 'corp', 'eric', 'texas', 'desk', 'product', 'description']}
+{'ORG': ['parker', 'corp', 'enron', 'enron']}
+{'ORG': ['abb', 'asltom', 'power', 'inc', 'make']}
+{'ORG': ['tenaska', 'forward', 'megan', 'parker', 'corp', 'enron', '     ', 'megan', 'parker', 'corp', 'enron', 'enron', 'tenaska', 'texas', 'partners', 'ltd', ' ', 'september', 'apache', 'corp', '    ']}
+{'ORG': ['nathan', 'l', 'hlavaty']}
+{'ORG': ['wells', 'sean', 'university', 'rhone', 'corp', 'enron', '     ', 'global', 'technology', 'enron', 'corp', ' ', 'smith', 'texaco', 'doc', 'resume']}
+{'ORG': ['shuler', 'mtbe', 'morgan', 'point', 'july']}
+{'ORG': ['prudential', 'texas', ' ', 'voice']}
+{'ORG': ['mobil', 'chemical', 'pasadena']}
+{'ORG': ['intrastate', ' ', 'enron', 'corp', 'relevant', 'enron', 'corp']}
+{'ORG': ['fw', 'aggie', 'song', 'deloitte', 'touche']}
+{'ORG': ['white', 'corp', 'enron', 'enron', 'physical', 'texas', 'bammel', 'e', 'texas', 'pipeline', 'west', 'colorado', 'columbia', 'gulf', 'south', 'koch']}
+{'ORG': ['houston', 'exploration', 'company']}
+{'ORG': ['ponton']}
+{'ORG': ['fw', 'fwd', 'fw', 'draw', 'school', 'fw', 'fwd', 'fw', 'draw', 'school', 'fw', 'fwd', 'fw', 'draw', 'school', 'fw', 'fwd', 'fw', 'draw', 'school']}
+{'ORG': ['logon', ' ', 'select', 'time', 'management', 'menu']}
+{'ORG': ['edward', 'gottlob', 'hou', 'ect']}
+{'ORG': ['gulf', 'forward', 'dvn']}
+{'ORG': ['fw', 'teco', 'frontera', 'financial', 'trade', 'fyi']}
+{'ORG': ['enron', 'north', 'america', 'corp']}
+{'ORG': ['tx', 'tm', 'program', 'point', 'point']}
+{'ORG': ['southern', 'union', 'lockhart']}
+{'ORG': ['teco']}
+{'ORG': ['l', 'morris', 'nathan', 'l', 'hlavaty', 'l', 'morris']}
+{'ORG': ['jennifer', 'blay', 'jennifer', 'blay', 'ect', 'lynn', 'tippery', 'hou', 'ect']}
+{'ORG': ['mtbe', 'morgan', 'point', 'october']}
+{'ORG': ['el', 'paso', 'energy', 'corporation']}
+{'ORG': ['texas', 'desk', 'request']}
+{'ORG': ['mason', 'michael', 'company', 'relocate', 'amanda', 'north', 'harris', 'community', 'college', 'tx']}
+{'ORG': ['warner', 'houston', 'warner', 'houston', 'kingwood']}
+{'ORG': ['cst', 'conversion', 'checkout']}
+{'ORG': ['hertz', 'united', 'airlines', 'hertz', 'united', 'airlines', 'mark', 'trademark', 'blockbuster', 'inc', 'c', ' ', 'blockbuster', 'inc']}
+{'ORG': ['g', 'superior', 'april', 'tom', 'acton', 'corp', 'enron', 'enron', 'g', 'superior', 'april', 'g', '   ', 'g', '   ', 'g', '   ']}
+{'ORG': ['fw', 'center', 'bible', 'fw', 'center', 'bible', 'fw', 'center', 'bible']}
+{'ORG': ['jan', 'svajian']}
+{'ORG': ['beaumont', 'methanol']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'tx']}
+{'ORG': ['\x01', '\x01', 'w', 'ellis', 'cfp', '\x01', 'american', 'express']}
+{'ORG': ['ponton']}
+{'ORG': ['ergon', 'tyler', 'county']}
+{'ORG': ['hyatt', 'regency', 'cottonwood', 'rm', 'hyatt', 'regency', 'cottonwood', 'rm']}
+{'ORG': ['pps']}
+{'ORG': ['crosstex', 'energy', 'service', 'camden', 'driscoll']}
+{'ORG': ['netco']}
+{'ORG': ['nick', 'cocavessis', 'corp', 'enron', 'thomas', 'gco', 'enron', 'enron', 'basin']}
+{'ORG': ['enron', 'announcement', 'corp', 'enron', 'enron']}
+{'ORG': ['\x01']}
+{'ORG': ['texas', 'market', 'analysis']}
+{'ORG': ['juliann']}
+{'ORG': ['fw', 'calpine', 'daily']}
+{'ORG': ['ponton']}
+{'ORG': ['ponton', 'tu', 'melissa', 'jones']}
+{'ORG': ['tom', 'acton', 'corp', 'enron', 'enron']}
+{'ORG': ['kelly', 'templeton', 'corp', 'enron', 'enron', 'lynn', 'julissa', 'marron', 'corp', 'enron', 'enron', 'ford']}
+{'ORG': ['saxet', 'canale', 'king', 'ranch']}
+{'ORG': ['ponton']}
+{'ORG': ['spinnaker', 'exploration', 'enron', 'north', 'america', 'corp', 'mike', 'morris', 'corp', 'enron', 'enron', 'gerald', 'lofton', 'hou', 'ect', 'texas', 'general', 'land', 'office', 'mike', 'morris', 'corp', 'enron', 'enron', 'gerald', 'lofton', 'hou', 'ect', 'spinnaker', 'exploration', 'texas', 'general', 'land', 'office', 'fw', 'npi']}
+{'ORG': ['mtbe', 'morgan', 'point']}
+{'ORG': ['cbs', 'federal', 'hearing', 'federal', 'communications', 'commission', 'carol', 'public', 'school', 'tx', 'erhart', 'canada', ' ', 'wendy', 'barbour', 'canada', ' ', 'benita', 'canada', ' ', 'hanny', 'kensington', 'canada', 'b', 'brown', 'canada', ' ', 'andre', 'lefebvre', 'canada', ' ', 'gaetanne', 'hetherington', 'canada', 'shanie', 'melanson', 'canada', ' ', 'peter', 'hill', 'canada', ' ', 'janet', 'hill', 'canada', ' ', 'emma', 'hill', 'canada', ' ', 'kevin', 'wilnechenko', 'canada', 'allison', 'kern', 'canada', ' ', 'anika', 'deraad', 'canada', ' ', 'erik', 'uunila', 'canada', ' ', 'krista', 'uunila', 'canada', ' ', 'leila', 'uunila', 'canada', ' ', 'uunila', 'canada', ' ', 'marilyn', 'forbe', 'canada', ' ', 'colin', 'evans', 'canada', 'angela', 'c', 'canada', 'canada', ' ', 'shanna', 'ridley', 'canada', ' ', 'thomas', 'somerville', 'canada', 'pat', 'wright', 'canada', 'carlene', 'neeve', 'canada', ' ', 'g', 'jepson', 'mtlk', 'terr', 'debbie', 'ia', ' ', 'peg', 'blue', 'hill', 'l', 'scott', 'davis', 'va', ' ', 'ian', 'r', 'gretna', 'ks', ' ', 'va', ' ', 'lynn', 'miller', 'nc', 'tx', 'tx', 'turner', 'kilgore', 'texas', ' ', 'riley', 'holcomb', 'morgan', 'holcomb', 'longview', 'texas', ' ', 'ronnie', 'harber', 'longview', 'texas', ' ', 'tx']}
+{'ORG': ['ponton']}
+{'ORG': ['megan', 'parker', 'corp', 'enron', 'enron']}
+{'ORG': ['morgan', 'cannon', 'morgan']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'pat', 'clynes']}
+{'ORG': ['fw', 'equistar', 'nom', 'deal', 'morgan', 'stanley']}
+{'ORG': ['tx']}
+{'ORG': ['dvn']}
+{'ORG': ['tina', 'valadez']}
+{'ORG': ['sanchez', 'oil', 'gas', '  ', 'harris', 'county', 'texas', 'daren', 'sanchez', 'sanchez']}
+{'ORG': ['panenergy']}
+{'ORG': ['kelly', 'templeton', 'corp', 'enron', 'enron', 'lynn', 'latson', 'corp', 'enron', 'enron', 'irena', 'jordan', 'corp', 'enron', 'enron']}
+{'ORG': ['juliann']}
+{'ORG': ['dth', 'dth']}
+{'ORG': ['tx', 'southwest', 'airlines']}
+{'ORG': ['el', 'paso', 'el', 'paso']}
+{'ORG': ['texas', 'utilities']}
+{'ORG': ['yates', 'energy', 'corp', 'revise', 'nomination', 'daren', 'yate', 'energy', 'revise', 'nomination']}
+{'ORG': ['\x01', '\x01', 'enron', 'corp', 'enron', 'north', 'america', '\x01', 'enron', 'corp']}
+{'ORG': ['wassup', 'wassup']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'bennett', 'kaufman', 'hou', 'ect', 'jennifer', 'blay', 'hou', 'ect', 'marron', 'corp', 'enron', 'enron', 'templeton', 'corp', 'enron', 'enron', 'ect', 'lynn', 'tippery', 'hou', 'ect', 'invoice', 'corp']}
+{'ORG': ['tackett', 'mailto', 'rtackett', 'abacustech', 'net']}
+{'ORG': ['financial', 'affiliate', 'commission']}
+{'ORG': ['fw', 'call', 'revise', 'enron', 'north', 'american', 'lan', 'datum', 'corp', 'environment', 'update', 'dfs', 'environment', 'corp', 'gop']}
+{'ORG': ['fw', 'intrastate', 'exxon', 'katy', 'enron', 'north', 'america', 'corp', 'lisa', 'fw', 'intrastate', 'exxon', 'katy', 'location']}
+{'ORG': ['wilson']}
+{'ORG': ['royal', 'b', 'edmondson', 'reliantenergy']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['lutheran', 'north', 'high', 'school']}
+{'ORG': ['royal', 'b', 'edmondson', 'reliantenergy']}
+{'ORG': ['coastal', 'oil', 'gas', 'corporation', 'george', 'note', 'hplc', 'enron', 'north', 'america', 'corp', 'tx', 'albrecht', 'tx', 'albrecht', 'albrecht', 'lal', 'tx', 'albrecht', 'albrecht', 'hoff', 'heller', 'gas', 'albrecht', 'enron', 'north', 'america', 'corp', 'lisa']}
+{'ORG': ['ponton']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'franklin', 'corp', 'enron', 'enron', 'thompson', 'corp', 'enron', 'enron', 'zeman', 'corp', 'enron', 'enron', 'joann', 'collins', 'corp', 'enron', 'enron', 'robert', 'allwein', 'hou', 'ect', 'christina', 'sanchez', 'corp', 'enron', 'enron']}
+{'ORG': ['texas', 'hplc', 'texas', 'hplc']}
+{'ORG': ['eta']}
+{'ORG': ['sept', 'correction', 'rick', 'hill', 'rich', 'forward', 'mark', 'mccoy', 'corp', 'enron', '     ', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['fun', 'pic', 'htm', 'fun', 'pic']}
+{'ORG': ['houston', 'exploration', 'company', 'kelly']}
+{'ORG': ['project', 'hurricane', 'texaco', 'texaco', 'texaco', 'texaco', 'scada', 'system', 'scada', 'transition', 'accounting', 'datum', 'texaco']}
+{'ORG': ['white', 'sox', ' ']}
+{'ORG': ['cuilla', 'martin', 'mim', 'ermis', 'frank']}
+{'ORG': ['mobil']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'earl', 'pat', 'clynes', 'corp', 'enron', 'enron', 'rita']}
+{'ORG': ['mobil', 'mobil']}
+{'ORG': ['txu']}
+{'ORG': ['feb', ' ']}
+{'ORG': ['writeoff', 'writeoff']}
+{'ORG': ['tenaska']}
+{'ORG': ['\x01', '\x01', '\x01', '\x01']}
+{'ORG': ['el', 'paso', 'g', 'marshall']}
+{'ORG': ['kam', 'keiser', 'john', 'grass']}
+{'ORG': ['fw', 'candle', 'lighting', 'allen', 'phillip', 'k', 'bass', 'tycholiz', 'barry', 'wolfe', 'jason', 'fw', 'candle', 'lighting', 'nbc', 'nbc', 'aguayo', 'sale', 'nbc']}
+{'ORG': ['jan', 'svajian']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'gary', 'baker', 'central', 'point', 'pioneer', 'arco']}
+{'ORG': ['america', 'corp', 'jennifer', 'blay', 'g', 'connevey', 'corp', 'enron', 'enron']}
+{'ORG': ['el', 'paso']}
+{'ORG': ['generic']}
+{'ORG': ['mobil']}
+{'ORG': ['ponton', 'tu', 'melissa', 'jones', 'texas', 'utilities']}
+{'ORG': ['dewbre', 'petroleum']}
+{'ORG': ['tenaska', 'megan']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'morgan', 'texas', 'pipeline', 'inc', 'kinder', 'morgan', 'texas', 'pipeline', 'inc', 'first']}
+{'ORG': ['autonom', 'franklin', 'corp', 'enron', 'franklin', 'corp', 'enron', 'enron']}
+{'ORG': ['teco']}
+{'ORG': ['enron', 'north', 'america', 'corp']}
+{'ORG': ['enron', 'north', 'america']}
+{'ORG': ['tx', 'enron', 'north', 'america', 'corp', 'mike', 'morris', 'corp', 'enron', 'enron', 'tx', 'tx']}
+{'ORG': ['pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'ronald', 'c', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec']}
+{'ORG': ['edward', 'gottlob', 'hou', 'ect', 'teco']}
+{'ORG': ['txu', 'power', 'group']}
+{'ORG': ['dba', 'garrison', 'ltd', 'tom', 'acton', 'corp', 'enron', 'enron', 'lp', 'dba', 'garrison', 'ltd', 'tom', 'texas', 'nom', 'lp', 'dba', 'garrison', 'ltd', '  ', 'tom', 'acton', 'corp', 'enron', 'enron', 'lp', 'dba', 'garrison', 'ltd', 'tom', 'texas', 'nom', 'lp', 'dba', 'garrison', 'ltd', '  ']}
+{'ORG': ['picl', ' ', 'pcx', 'pico']}
+{'ORG': ['matagorda', ' ', 'accord']}
+{'ORG': ['texas', 'slip']}
+{'ORG': ['ponton']}
+{'ORG': ['ponton']}
+{'ORG': ['parker', 'corp', 'enron', 'enron']}
+{'ORG': ['lb', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'connie', 'pec', 'pec', 'mobil']}
+{'ORG': ['shuler', 'shuler', 'mtbe', 'morgan', 'point', 'december']}
+{'ORG': ['nathan', 'l', 'hlavaty']}
+{'ORG': ['smith', 'hou', 'ect', 'exploration', 'co', 'inc', '  ']}
+{'ORG': ['beaumont', 'methanol', 'confirm', 'beaumont', 'methanol', 'deco', 'dupont']}
+{'ORG': ['nat', 'georgia', 'gulf', 'corp', 'meter', 'phibro', 'energy', 'inc', 'valero', 'nat']}
+{'ORG': ['spinnaker', 'exploration', 'spinnaker', 'exploration', 'texas', 'general', 'land', 'office', 'fw', 'npi']}
+{'ORG': ['el', 'paso', 'el', 'paso']}
+{'ORG': ['southern', 'union']}
+{'ORG': ['ponton']}
+{'ORG': ['fw', 'classic', 'texas', 'fox', 'sport', 'school', 'university', 'joe', 'toy', 'corp', 'forget', 'respect', 'corp']}
+{'ORG': ['el', 'paso']}
+{'ORG': ['teco']}
+{'ORG': ['kim', ' ']}
+{'ORG': ['texas', 'group', 'nat', 'brazos', ' ', 'spinnaker', 'gas', 'dow', 'gulf', 'energy', 'devon']}
+{'ORG': ['killam', 'oil', 'company', 'forward', 'megan', 'parker', 'corp', 'enron', '     ', 'cc', 'megan', 'enron', 'corp', 'relevant', 'enron', 'corp']}
+{'ORG': ['texas', 'risk', 'organization', 'ft', 'texas', 'mick', 'walter', 'transport', 'mick', 'walter', 'mick', 'walter', 'storage', 'ft', 'ft', 'hplc']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'heidi']}
+{'ORG': ['l', 'data']}
+{'ORG': ['ponton']}
+{'ORG': ['ocean', 'star', 'doc']}
+{'ORG': ['l', 'morris']}
+{'ORG': ['flanagan', 'corp', 'enron', 'enron', 'texas', 'asset', 'duke', 'tina', 'valadez', 'hou', 'ect']}
+{'ORG': ['ponton']}
+{'ORG': ['royal', 'b', 'edmondson', 'reliantenergy']}
+{'ORG': ['ponton']}
+{'ORG': ['jan', 'svajian']}
+{'ORG': ['mark', 'mccoy', 'corp', 'enron']}
+{'ORG': ['pec', 'pec', 'dfarmer', 'enron', 'houston', 'pefs', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'poe', 'pec', 'pec']}
+{'ORG': ['central', 'corp', '    ', 'central', 'corp', '      ', 'corp', '    ']}
+{'ORG': ['teco']}
+{'ORG': ['sec', 'ferc']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'pat', 'clynes', 'pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['texas', 'logistics', 'information', 'powerpoint', 'texas', 'gas']}
+{'ORG': ['kcs', 'energy', 'inc', ' ', 'san', 'felipe', 'suite']}
+{'ORG': ['aspect', 'resource', 'confirmation', 'rgds']}
+{'ORG': ['mcfd', 'mcfd', 'kcs', 'resource', 'dickenson']}
+{'ORG': ['pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'nomination']}
+{'ORG': ['ami', 'chokshi', 'corp', 'enron', 'enron']}
+{'ORG': ['tom', 'p', 'megan', 'laynie', 'tx']}
+{'ORG': ['regan', 'sql', 'mail']}
+{'ORG': ['exxon', 'company', 'usa', 'global', ' ', 'sitara', 'evergreen']}
+{'ORG': ['mtbe']}
+{'ORG': ['flanagan', 'corp', 'enron', 'enron', 'flanagan', 'corp', 'enron', 'enron', 'texas', 'asset', 'duke', 'tina', 'valadez', 'hou', 'ect']}
+{'ORG': ['scott', 'becken', 'corp', 'sap', 'coe', 'corp', 'enron', 'north', 'america', 'corp', 'robert']}
+{'ORG': ['pec', 'pec', 'pec']}
+{'ORG': ['mobil', 'mobil', 'mobil', 'pat', 'clynes', 'corp', 'enron', 'enron', 'mobil']}
+{'ORG': ['katy', 'gas']}
+{'ORG': ['tom', 'acton', 'corp', 'enron', 'enron', 'pat', 'clynes', 'corp', 'enron', 'enron', 'nomination']}
+{'ORG': ['america', 'corp', 'scott', 'pleus', 'enron', 'communication', 'enron', 'communication', 'brent', 'enron', 'north', 'america', 'corp', 'scott', 'pleus', 'enron', 'communication', 'enron', 'communication', 'brent', 'hgm']}
+{'ORG': ['fw', 'midcon']}
+{'ORG': ['mobil']}
+{'ORG': ['royal', 'b', 'edmondson', 'reliantenergy']}
+{'ORG': ['change', 'megan', 'forward', 'megan', 'parker', 'corp', 'enron', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'connie', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'connie', 'pec', 'pec']}
+{'ORG': ['enron']}
+{'ORG': ['panenergy', 'exchange']}
+{'ORG': ['tenaska']}
+{'ORG': ['enron', 'north', 'america', 'corp']}
+{'ORG': ['un']}
+{'ORG': ['murphy', 'melissa', 'ann', 'allen', 'edith', 'wiesepape', 'jason']}
+{'ORG': ['megan', 'cowboy', 'megan', 'gepl', 'fw', 'conoco', 'gepl', 'megan', 'enron', 'corp', 'relevant', 'enron', 'corp']}
+{'ORG': ['duke', 'energy', 'field', 'service']}
+{'ORG': ['dvn', 'com']}
+{'ORG': ['\x01', 'general', 'electric', 'eott', 'enron', 'facility', '\x01']}
+{'ORG': ['enron', 'corp', 'relevant', 'enron', 'corp']}
+{'ORG': ['gulf', 'coast', 'pipeline', 'company', 'dyersdale', 'area', 'harris', 'mike', 'morris', 'corp', 'enron', 'enron', 'gulf', 'coast']}
+{'ORG': ['ponton']}
+{'ORG': ['enron']}
+{'ORG': ['ponton']}
+{'ORG': ['morgan', 'stanley']}
+{'ORG': ['\x01', 'different', '\x01', 'home', '\x01', '\x01', 'p', '\x01', '\x01', '\x01', 'flex', 'dollar', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', '\x01', 'irs']}
+{'ORG': ['mobil']}
+{'ORG': ['teco']}
+{'ORG': ['jennifer', 'blay', 'hou', 'ect', 'right', 'notify', 'party', 'party', 'nom', ' ', 'party', 'scott', 'mills']}
+{'ORG': ['pec', 'pec', 'pec', 'pec', 'pec', 'mobil']}
+{'ORG': ['enron', 'north', 'america']}
+{'ORG': ['mtbe', 'morgan', 'point', 'march']}
+{'ORG': ['panenergy', 'katherine', 'herrera', 'corp', 'enron', 'enron', 'texas', 'point']}
+{'ORG': ['enron', 'capital', 'trade', 'resources', 'corp', 'steve']}
+{'ORG': ['enron', 'enron', 'capital', 'trade', 'resources', 'corp', 'victor']}
+{'ORG': ['lincoln']}
+{'ORG': ['sarco', 'lateral', 'crow']}
+{'ORG': ['fw', 'cornhusker', 'lone', 'star', 'parker', 'corp', 'enron', 'enron', 'fw', 'cornhusker', 'lone', 'star']}
+{'ORG': ['hesco', 'gather', 'tx', 'tx']}
+{'ORG': ['mobil']}
+{'ORG': ['enron', 'north', 'america', 'corp']}
+{'ORG': ['mcfd']}
+{'ORG': ['union', 'gas', 'corp', 'union', 'gas', 'corp', 'nathan', 'l', 'hlavaty', 'union', 'gas', 'corp']}
+{'ORG': ['royal', 'b', 'edmondson', 'reliantenergy']}
+{'ORG': ['enron', 'north', 'america', 'corp']}
+{'ORG': ['exxon', 'company', 'usa', 'global', ' ', 'sitara']}
+{'ORG': ['l', 'p', 'e', 'transportation', 'exchange', 'etn', '  ', 'mailto', 'perez', 'jr', 'usa']}
+{'ORG': ['schumack', 'sherlyn', 'cc', 'hbcamp', 'aep']}
+{'ORG': ['waha', 'waha']}
+{'ORG': ['houston', 'ship', 'channel', 'pat', 'clynes', 'corp', 'enron', 'enron', 'rita', 'enron', 'north', 'america', 'corp', 'gary', 'pat', 'clynes', 'corp', 'enron', 'enron', 'rita']}
+{'ORG': ['pat', 'clyne', 'corp', 'enron', 'enron']}
+{'ORG': ['teco', 'waha', ' ', 'pgtt', 'svs']}
+{'ORG': ['truong', 'corp', 'enron', 'enron']}
+{'ORG': ['mobil']}
+{'ORG': ['autonom', 'dun', 'dana', 'daigle', 'corp', 'dun', 'dana', 'daigle', 'corp', 'texas', 'hplc', 'dana', 'daigle', 'corp', 'connie', 'sutton', 'hou', 'ect', 'dana', 'daigle', 'corp', 'enron', 'enron', 'kathryn', 'cord', 'horn', 'corp', 'enron', 'enron', 'brant', 'gary', 'jr', 'associates', 'inc']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'lauri', 'allen', 'hou', 'ect']}
+{'ORG': ['nathan', 'l', 'hlavaty']}
+{'ORG': ['forward', 'megan', 'parker', 'corp', 'enron']}
+{'ORG': ['el', 'paso', 'g', 'marshall']}
+{'ORG': ['karima', 'lim', 'francis', 'saluja', 'gurdip']}
+{'ORG': ['l', 'morris']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'rita']}
+{'ORG': ['tenaska']}
+{'ORG': ['expatriate', 'zone', 'issue', 'irs', 'wal', 'mart', 'coast', 'mexico', 'group', 'irs', 'jackson', 'plea', 'song', 'tina', 'nadirah', 'detroit', 'phc']}
+{'ORG': ['period', 'union', 'gas', 'corp']}
+{'ORG': ['sierra']}
+{'ORG': ['formation', 'enron', 'management', 'committee', 'enron', 'corp', 'ray', 'bowen', 'coo', 'enron', 'enron', 'corp', 'rick', 'enron', 'corp', 'dave', 'delainey', 'enron', 'corp', 'janet', 'enron', 'corp', 'mark', 'enron', 'corp', 'mark', 'haedicke', 'enron', 'corp', 'louise', 'kitchen', 'coo', 'enron', 'americas', 'mark', 'koenig', 'enron', 'corp', 'enron', 'americas']}
+{'ORG': ['enron']}
+{'ORG': ['texas', 'utilities']}
+{'ORG': ['mtg', 'gas', 'asset', 'group', 'mtg', 'gas', 'asset', 'group', 'date']}
+{'ORG': ['mobil']}
+{'ORG': ['ami', 'chokshi', 'corp', 'enron', 'enron', 'cc', 'tufco', 'complete']}
+{'ORG': ['enron', 'corp']}
+{'ORG': ['emotley', ' ', 'elpaso', ' ', 'ecom', 'elpaso', 'corporation']}
+{'ORG': ['tenaska']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'sherlyn', 'schumack', 'hou', 'ect', 'mm', 'party', 'houston', 'ship', 'channel', 'pat', 'clynes', 'corp', 'enron', 'enron', 'rita', 'enron', 'north', 'america', 'corp', 'gary', 'pat', 'clynes', 'corp', 'enron', 'enron', 'rita']}
+{'ORG': ['mobil', 'mobil']}
+{'ORG': ['kickoff']}
+{'ORG': ['texas', 'ap', 'college', 'texas', 'texas', 'football', 'practice', 'fbi', 'fbi', 'fbi']}
+{'ORG': ['mtbe', 'morgan', 'point', 'april']}
+{'ORG': ['texas', 'desk', 'ponderosa', 'pine', 'energy', 'williams', 'lone', 'star', 'mazowita', 'farmer']}
+{'ORG': ['enron', 'north', 'america', 'corp']}
+{'ORG': ['liz']}
+{'ORG': ['copano', 'forward', 'edward', 'gottlob', 'hou', 'ect', 'pat', 'clynes', 'corp', 'enron', 'enron', 'copano', 'edward', 'gottlob', 'hou', 'ect', 'pat', 'clynes', 'corp', 'enron', 'enron', 'copano']}
+{'ORG': ['rosetta', 'enron', 'development', 'enron', 'development', 'pam', 'horton', 'corp', 'enron', 'corp', 'enron', 'juneman', 'corp', 'enron', 'enron']}
+{'ORG': ['ami', 'chokshi', 'corp', 'enron', 'enron', 'cc', 'copano', 'change', ' ']}
+{'ORG': ['ranking', 'source', 'destination', 'please', 'forward']}
+{'ORG': ['l', 'morris', 'beaumont', 'methanol', 'beaumont', 'methanol', 'forward', 'l', 'morris', 'beaumont', 'methanol', 'please', 'reference', 'l', 'morris', 'beaumont', 'methanol', 'l', 'morris', 'beaumont', 'methanol', 'stella']}
+{'ORG': ['u', 'canada', 'u', 'canada']}
+{'ORG': ['dana', 'daigle', 'corp', 'enron', 'enron', 'marlene']}
+{'ORG': ['texas', 'desk', 'ponderosa', 'pine', 'energy', 'williams', 'lone', 'star', 'mazowita', 'farmer']}
+{'ORG': ['pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'connie', 'pec', 'pec', 'ronald', 'c', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec']}
+{'ORG': ['wagner', 'brown', 'ltd', '  ', 'wagner', 'brown', 'ltd']}
+{'ORG': ['radisson', 'philadelphia']}
+{'ORG': ['guadalupe', 'power']}
+{'ORG': ['el', 'paso']}
+{'ORG': ['karen', 'lindley', 'corp', 'enron', 'enron']}
+{'ORG': ['texas', 'establish', 'republic']}
+{'ORG': ['duke', 'exchange', 'feb', ' ', 'u', 'daily', 'dollar', 'katherine', 'herrera', 'corp', 'enron', 'enron', 'cc', 'duke', 'exchange']}
+{'ORG': ['tex', 'energy', 'svcs', 'ltd', '  ']}
+{'ORG': ['central', 'corp', '    ', 'central', 'corp', '      ', 'corp', '    ']}
+{'ORG': ['ponton', 'tu', 'melissa', 'jones', 'texas', 'utilities']}
+{'ORG': ['dropbox']}
+{'ORG': ['l', 'p', 'hplc', 'hplc', 'gulf', 'energy']}
+{'ORG': ['petroleum', 'corp', '  ']}
+{'ORG': ['praxair', 'assign', 'hplc', 'un', 'texas', 'utilities', 'fuel', 'transmission', 'company', 'inc', 'ena', 'praxair', 'inc', 'central', 'power', 'light', 'company', 'southern', 'union', 'h', 'gas', 'company', 'inc', 'texas', 'transmission', 'company', 'inc']}
+{'ORG': ['juliann']}
+{'ORG': ['flanagan', 'corp', 'enron', 'enron', 'steve', 'slum', 'house']}
+{'ORG': ['g', 'superior', 'april', 'tom', 'acton', 'corp', 'enron', 'enron', 'g', 'superior', 'april', 'g', '   ', 'g', '   ', 'g', '   ']}
+{'ORG': ['netco']}
+{'ORG': ['el', 'paso', 'parker', 'corp', 'enron', 'el', 'paso', 'el', 'paso']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'karen', 'lindley', 'corp', 'enron', 'enron', 'karen', 'lindley', 'corp', 'enron', 'enron', 'enron', 'north', 'america', 'corp', 'karen', 'lindley', 'corp', 'enron', 'enron']}
+{'ORG': ['mar', ' ', 'mar', ' ', 'estimate', 'josey', 'ranch', 'nomination', 'month']}
+{'ORG': ['cogen', 'lauri']}
+{'ORG': ['texas', 'pipeline', 'l', 'p', 'transmission', 'teco', 'inc', 'transmission', 'teco', 'inc', 'e', 'gas', 'transmission', 'teco', 'inc', 'I']}
+{'ORG': ['txu', 'txu', 'el', 'paso']}
+{'ORG': ['texas', 'calgary']}
+{'ORG': ['mobil', 'mobil']}
+{'ORG': ['lindholm', 'oil', 'inc', 'lindholm', 'oil', 'inc', '  ']}
+{'ORG': ['enron']}
+{'ORG': ['fw', 'fw', 'march', 'mary', 'ellenberger', 'corp', 'enron', 'enron', 'fw', 'fw', 'march']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'rita']}
+{'ORG': ['charlotte', 'hawkin', 'hplc']}
+{'ORG': ['house']}
+{'ORG': ['clynes', 'corp', 'enron', 'enron', 'lauri', 'allen', 'hou', 'ect']}
+{'ORG': ['writeoff', 'ps', 'writeoff']}
+{'ORG': ['morgan', 'point', 'january']}
+{'ORG': ['ponton', 'ponton', 'bcc', 'nomination', '     ', 'ponton', 'melissa', 'jones', 'texas', 'utilities']}
+{'ORG': ['teco']}
+{'ORG': ['michael', 'senior', 'specialist', 'villanueva', 'lisa', 'white', 'stuart', 'justin', 'technology', 'houston', 'paige', 'mei', 'xiaojun', 'tiner', 'brent', 'alistair', 'reeve', 'malik', 'ednan', 'senior', 'professional', 'ashton', 'david', 'tsang', 'david']}
+{'ORG': ['forward', 'megan', 'parker', 'corp', 'enron', 'megan', 'parker', 'corp', 'enron', 'enron', 'bill', 'forward', 'megan', 'parker', 'corp', 'enron', 'forward', 'megan', 'parker', 'corp', 'enron', 'mccoy', 'corp', 'enron', 'enron', 'megan', 'parker', 'corp', 'enron', 'enron']}
+{'ORG': ['apache', 'corporation', 'white', 'petroleum', 'corp', '  ', 'el', 'paso']}
+{'ORG': ['texas', ' ', 'enron', 'north', 'america', 'corp', 'misti']}
+{'ORG': ['matagorda', ' ', 'accord']}
+{'ORG': ['\x01', '\x01', 'enron', 'north', 'america', '\x01', 'jeff', '\x01', 'enron', 'north', 'america']}
+{'ORG': ['enron', 'north', 'america', 'corp']}
+{'ORG': ['tenaska']}
+{'ORG': ['mccoy', 'corp', 'enron', 'enron']}
+{'ORG': ['bruce', 'mcmills', 'eastran', 'nomination', 'gas']}
+{'ORG': ['thompson', 'corp', 'enron', 'enron']}
+{'ORG': ['txu']}
+{'ORG': ['writeoff', 'ps', 'writeoff']}
+{'ORG': ['sierra']}
+{'ORG': ['txu']}
+{'ORG': ['ponton']}
+{'ORG': ['hgm']}
+{'ORG': ['tenaska', 'forward', 'megan', 'parker', 'corp', 'enron']}
+{'ORG': ['feb', ' ']}
+{'ORG': ['enron', 'corp']}
+{'ORG': ['el', 'paso', 'el', 'paso']}
+{'ORG': ['central', 'corp', '    ', 'central', 'corp', '      ', 'corp', '    ']}
+{'ORG': ['doc']}
+{'ORG': ['gepl', 'garza', 'plant', '  ']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'pat', 'clynes']}
+{'ORG': ['taylor', 'vance', 'l', 'cc', 'nom', 'barrett', 'resource', '    ', 'apache', 'corporation', 'white', 'petroleum', 'corp', '  ']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'pat', 'clynes', 'corp', 'enron']}
+{'ORG': ['dupont', 'enron', 'north', 'america', 'corp', 'gary', 'pat', 'clynes', 'corp', 'enron', 'enron', 'earl', 'pat', 'clynes', 'corp', 'enron', 'enron', 'rita']}
+{'ORG': ['juliann', 'chance']}
+{'ORG': ['tx']}
+{'ORG': ['sept', 'correction', 'rick', 'hill', 'rich', 'forward', 'mark', 'mccoy', 'corp', 'enron', '     ', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['norton', 'antivirus', 'blackice', 'defender', 'logon', 'portal', 'norton']}
+{'ORG': ['flow', 'volume', 'oxy']}
+{'ORG': ['fw', 'piss']}
+{'ORG': ['pec', 'pec', 'pec', 'pec', 'pec', 'ronald', 'c', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec', 'pec']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'stephen']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['netco', 'newco', 'structure', 'newco', 'credit', 'dun']}
+{'ORG': ['keystone', 'jan', 'svajian', 'keyshutdown']}
+{'ORG': ['karen', 'lindley', 'corp', 'enron', 'enron']}
+{'ORG': ['mccoy', 'corp', 'enron', 'enron', 'oakville']}
+{'ORG': ['mccoy', 'corp', 'enron', 'enron', 'cc']}
+{'ORG': ['hoston', 'hoop', 'southwest', 'airlines']}
+{'ORG': ['mtbe', 'morgan', 'point', 'april']}
+{'ORG': ['enron', 'teco', 'teco', 'teco']}
+{'ORG': ['mccoy', 'corp', 'enron', 'enron']}
+{'ORG': ['texas', 'desk', 'gas']}
+{'ORG': ['u', 'postal', 'service', 'tm', 'program']}
+{'ORG': ['logon']}
+{'ORG': ['enron', 'capital', 'trade', 'resources', 'corp', 'steve']}
+{'ORG': ['samson', 'lone', 'star', 'limit', 'samson', 'lone', 'star']}
+{'ORG': ['mips', 'peggy', 'cameron', 'gpgfin', 'enron', 'pat', 'clynes', 'corp', 'enron']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'gary', 'pat', 'clynes', 'corp', 'enron', 'enron', 'rita']}
+{'ORG': ['scott', 'becken', 'corp', 'sap', 'coe', 'corp', 'enron', 'north', 'america', 'corp', 'robert']}
+{'ORG': ['mobil']}
+{'ORG': ['tackett', 'mailto', 'rtackett', 'abacustech', 'net', 'tx']}
+{'ORG': ['mark', 'mccoy', 'corp', 'enron', 'enron']}
+{'ORG': ['tetco', 'pat', 'clynes', 'corp', 'enron', 'enron', 'tommorrow', '    ']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'victor', 'franklin', 'corp', 'enron', 'enron', 'deal']}
+{'ORG': ['enron', 'capital', 'trade', 'resources', 'corp', 'steve']}
+{'ORG': ['tenaska']}
+{'ORG': ['microsoft']}
+{'ORG': ['ge']}
+{'ORG': ['el', 'paso']}
+{'ORG': ['dow', 'pipeline', 'liz', 'karen', 'lindley', 'corp', 'enron', 'enron', 'cc', 'paul', 'couvillon', 'corp', 'karen', 'lindley', 'corp', 'enron', 'enron', 'dow']}
+{'ORG': ['duke', 'exchange']}
+{'ORG': ['tenaska']}
+{'ORG': ['mtbe', 'mtbe']}
+{'ORG': ['mobil', 'chemical', 'robert', 'company', 'mobil', 'mobil', 'mobil']}
+{'ORG': ['lone', 'star', 'point']}
+{'ORG': ['waha', 'hub']}
+{'ORG': ['pan', 'energy', 'marketing', 'exchange']}
+{'ORG': ['\x01', 'moody', 'gardens', 'hotel', '\x01', '\x01', '\x01', 'moody', 'gardens', 'hotel', 'moody', 'garden', 'hotel', '\x01', '\x01', '\x01', 'moody', 'gardens', 'hotel', 'schedule', '\x01']}
+{'ORG': ['tina', 'valadez', 'hou', 'ect']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'randall', 'l']}
+{'ORG': ['bayer', 'march', ' ']}
+{'ORG': ['ponton']}
+{'ORG': ['gbl', ' ']}
+{'ORG': ['mark', 'mccoy', 'corp', 'enron', 'exxon', 'exxon', 'karen', 'lindley', 'corp', 'enron', 'katy', 'gas']}
+{'ORG': ['guadalupe', 'power']}
+{'ORG': ['smith', 'hou', 'ect', 'sitara', 'whiting', 'petroleum', 'corp', '  ']}
+{'ORG': ['enron']}
+{'ORG': ['tenaska']}
+{'ORG': ['ferc', 'ferc', 'ferc', 'nopr', 'nopr', 'nopr']}
+{'ORG': ['consult', 'inc', '   ']}
+{'ORG': ['smith', 'hou', 'ect', 'exploration', 'co', 'inc', '  ']}
+{'ORG': ['tec', 'energy', 'corp', 'adrian', 'resource', 'adrrf', 'beau', 'canada', 'exploration', 'ltd', 'bau', 'canfibre', 'group', 'ltd', 'cfgl', 'carrizo', 'oil', 'gas', 'inc', 'crzo', 'costilla', 'industrial', 'holding', 'inc', 'ihii', 'inland', 'resource', 'inc', 'kafus', 'environmental', 'industry', 'inc', 'resource', 'inc', 'quanta', 'services', 'inc', 'pwr', 'sand', 'resource', 'inc', 'qsri', 'quicksilver', 'resources', 'inc', 'kwk', 'saxon', 'petroleum', 'inc', 'sxn', 'startech', 'seh', 'cn', 'syntroleum', 'corp', 'tejon', 'ranch', 'corp', 'trc', 'tetonka', 'tdi', 'enron', 'corp', 'risk', 'enron', 'corp', 'risk', 'enron', 'corp', 'conduct']}
+{'ORG': ['mips']}
+{'ORG': ['tenaska']}
+{'ORG': ['panenergy']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'heidi']}
+{'ORG': ['exxon', 'exxon', 'karen', 'lindley', 'corp', 'enron', 'katy', 'gas']}
+{'ORG': ['teco', 'gas', 'teco', 'hplc', 'purchase', 'teco', 'teco', 'enron', 'capital', 'trade', 'resources', 'corp', 'enron', 'capital', 'trade', 'resources', 'corp', 'melissa']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['enron', 'north', 'america', 'corp']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron']}
+{'ORG': ['tom', 'acton', 'corp', 'enron', 'enron']}
+{'ORG': ['enron']}
+{'ORG': ['netco', 'netco']}
+{'ORG': ['meter', ' ', 'united']}
+{'ORG': ['microsoft']}
+{'ORG': ['texas', 'little', '  ', 'l', 'morris']}
+{'ORG': ['jillian']}
+{'ORG': ['txu', 'txu', 'lone', 'star', 'barclay', 'richardson', 'enron', 'net']}
+{'ORG': ['\x01']}
+{'ORG': ['mobil']}
+{'ORG': ['txu']}
+{'ORG': ['tenaska']}
+{'ORG': ['el', 'paso', 'el', 'paso']}
+{'ORG': ['enron', 'enron']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'pat', 'clynes', 'corp', 'enron', 'enron', 'rita']}
+{'ORG': ['conoco', 'hplc']}
+{'ORG': ['coastal', 'oil', 'gas', 'corporation', 'tx', 'hillary', 'mack', 'corp', 'enron', 'enron', 'tx', 'albrecht', 'coastal', 'oil', 'gas', 'corp', 'america', 'corp', 'tx', 'america', 'corp', 'tx', 'george', 'note', 'hplc', 'enron', 'north', 'america', 'corp', 'tx', 'albrecht', 'tx', 'albrecht', 'albrecht', 'lal', 'tx', 'albrecht', 'albrecht', 'hoff', 'heller', 'gas', 'albrecht', 'enron', 'north', 'america', 'corp', 'lisa']}
+{'ORG': ['tenaska']}
+{'ORG': ['tx', ' ', 'tel']}
+{'ORG': ['flow', 'volume', 'oxy', 'pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['texas', 'general', 'land', 'office']}
+{'ORG': ['dow', 'jones', 'news', 'service', 'dow', 'jones', 'company', 'inc', 'dow', 'jones', 'dow', 'jones', 'enron', 'corp', 'ene', 'dow', 'jones', 'company', 'inc', 'right']}
+{'ORG': ['mdq', 'hplc', 'mdq']}
+{'ORG': ['southern', 'union', 'lockhart']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron']}
+{'ORG': ['delta', 'charlotte', 'phoenix', 'charlotte', 'nc', 'clt', 'phoenix', 'az', 'phx', ' ', 'cleveland', 'boston', 'cle', 'boston', 'den', 'washington', 'national', 'dc', 'dca', ' ', 'indiana', 'milwaukee', 'tx', 'marquette', 'university', 'campus', 'museum', 'collection', 'glass', 'milwaukee', 'public', 'museum', 'museum', 'human', 'natural', 'cvg', 'milwaukee', 'wi', 'mke', ' ', 'huntsville', 'al', 'hsv', 'milwaukee', 'wi', 'mke', ' ', 'jackson', 'washington', 'national', 'dc', 'delta', 'express', 'delta']}
+{'ORG': ['megan', 'parker', 'corp', 'enron', 'enron', 'dave', 'enron', 'north', 'america', 'corp', 'megan', 'apache', 'tenaska']}
+{'ORG': ['karen', 'lindley', 'corp', 'enron', 'enron', 'enron', 'north', 'america', 'corp', 'karen', 'lindley', 'corp', 'enron', 'enron']}
+{'ORG': ['enron', 'north', 'america', 'corp']}
+{'ORG': ['nick', 'cocavessis', 'corp', 'enron', 'thomas', 'gco', 'enron', 'enron', 'basin']}
+{'ORG': ['exxon']}
+{'ORG': ['meredith']}
+{'ORG': ['mtbe', 'morgan', 'point', 'december']}
+{'ORG': ['fw', 'deal', 'richardson', 'stacey', 'anderson', 'bridgette']}
+{'ORG': ['glover', 'rusty', 'megan', 'pic']}
+{'ORG': ['cernosek', 'express', 'pat', 'clynes', 'corp', 'enron']}
+{'ORG': ['nick', 'cocavessis', 'corp', 'enron', 'thomas', 'gco', 'enron', 'enron', 'basin']}
+{'ORG': ['hplc', 'ocean', 'energy', 'inc', '  ', 'ocean', 'energy', 'inc', 'craig']}
+{'ORG': ['pat', 'clynes', 'corp', 'enron', 'enron', 'stacey', 'neuweiler']}
+{'ORG': ['teco', 'waha', ' ', 'pgtt', 'svs']}
+{'ORG': ['tenaska', 'tenaska', 'mark', 'mccoy', 'corp', 'enron', 'enron']}
+{'ORG': ['ponton']}
+{'ORG': ['ponton']}
+{'ORG': ['teco']}
+{'ORG': ['writeoff', 'writeoff']}
+{'ORG': ['enron', 'north', 'america', 'corp', 'texas', 'city']}
+{'ORG': ['enron']}
+{'ORG': ['fw', 'fw', 'march']}
+{'ORG': ['gulf', 'coast']}
+{'ORG': ['k', 'texas', 'charlotte', 'hawkin', '      ']}
+{'ORG': ['tenaska', 'texas', 'partners', 'ltd', 'texas', 'partners', 'ltd', 'tenaska', 'texas', 'partners', 'ltd', 'tenaska', 'texas', 'partners', 'ltd', 'tenasksa', 'tenaska', 'iv', 'inc', 'manage']}
+{'ORG': ['stella', 'morris', 'centana', 'system']}
+{'ORG': ['ami', 'chokshi', 'corp', 'enron', 'enron', 'cc', 'revise', ' ', 'th', 'nom', 'ya']}
+{'ORG': ['nng', 'texas', 'desk', 'entity', 'texas', 'desk', 'hplc', 'hplc']}
+{'ORG': ['tenaska', 'stiver', 'tenaska', 'inc', ' ', 'williams', 'apache', 'lone', 'star', 'ena', 'act']}
+{'ORG': ['delta', 'delta', 'delta', 'express', 'delta', 'express', 'delta', 'express', 'delta']}
+{'ORG': ['tenaska']}
+{'ORG': ['jan', 'svajian']}
+{'ORG': ['tx', 'southwest', 'airlines']}
+{'ORG': ['teco']}
+{'ORG': ['spinnaker', 'exploration', 'texas', 'general', 'land', 'office', 'mike', 'morris', 'corp', 'enron', 'enron', 'gerald', 'lofton', 'hou', 'ect', 'spinnaker', 'exploration', 'texas', 'general', 'land', 'office', 'fw', 'npi']}
+{'ORG': ['estimate', 'josey', 'ranch', 'nomination', 'month']}
+{'ORG': ['harris', 'ben', 'stutts', 'ben', 'prakop', 'lsu', 'edu', 'e', 'morris', 'delete', 'win']}
+{'ORG': ['tenaska']}
+{'ORG': ['enron', 'capital', 'trade', 'resources', 'corp', 'victor', 'pat', 'clynes', 'corp', 'enron', 'enron', 'franklin', 'corp', 'enron', 'enron', 'thompson', 'corp', 'enron', 'enron', 'zeman', 'corp', 'enron', 'enron', 'joann', 'collins', 'corp', 'enron', 'enron', 'robert', 'allwein', 'hou', 'ect', 'christina', 'sanchez', 'corp', 'enron', 'enron']}
+{'ORG': ['mtbe', 'morgan', 'point', 'june']}
+{'ORG': ['tenaska', 'megan', 'parker', 'corp', 'enron']}
+{'ORG': ['fw', 'ercot']}
+{'ORG': ['l', 'morris', 'l', 'morris']}
+{'ORG': ['txu', 'txu']}
+{'ORG': ['crosstex', 'energy', 'service', 'driscoll', 'enron', 'north', 'america', 'corp', 'kreg', 'hall', 'hou', 'ect']}
+{'ORG': ['commonwealth', 'edison', 'sec', 'quantity', 'commission']}
+{'ORG': ['invoice', 'corp']}
+{'ORG': ['morgan', 'inc', 'morgan', 'enichem', 'americas', 'inc']}
+{'ORG': ['tivoli', 'gulf', 'energy', 'gulf', 'energy', 'point', 'gulf', 'energy', 'interconnect', 'thompsonville', 'jennings', 'plant', 'split', 'gulf', 'energy', 'low', 'mustang', 'island', 'dbq', 'dbq']}
+{'ORG': ['jan', 'svajian']}
+{'ORG': ['megan', 'laynie', 'tx']}
+{'ORG': ['memo', 'office', 'management', 'professional', 'administration', '\x01', '\x01']}
+{'ORG': ['matagorda', ' ', 'accord']}
+{'ORG': ['feb', 'clem', 'cernosek', 'writeoff', 'ps', 'writeoff']}
+{'ORG': ['oba', 'lsp', 'teco']}
+{'ORG': ['ami', 'chokshi', 'corp', 'enron', 'enron']}
+{'ORG': ['mm', 'party', 'houston', 'ship', 'channel', 'pat', 'clynes', 'corp', 'enron', 'enron', 'rita', 'enron', 'north', 'america', 'corp', 'gary', 'pat', 'clynes', 'corp', 'enron', 'enron', 'rita']}
+{'ORG': ['fw', 'crosstex', 'energy', 'driscoll', 'gpa']}
+{'ORG': ['pec', 'pec', 'pec', 'pec', 'pec', 'pec']}

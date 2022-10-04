@@ -1,0 +1,3 @@
+(0, '0.006*"height" + 0.005*"width" + 0.005*"pills" + 0.004*"price" + 0.004*"company" + 0.003*"border" + 0.003*"align" + 0.003*"windows" + 0.003*"software" + 0.003*"adobe"')
+(1, '0.004*"please" + 0.004*"email" + 0.003*"click" + 0.003*"message" + 0.003*"computron" + 0.003*"color" + 0.003*"online" + 0.003*"information" + 0.003*"prices" + 0.002*"contact"')
+(2, '0.008*"company" + 0.005*"statements" + 0.005*"information" + 0.003*"please" + 0.003*"email" + 0.003*"investment" + 0.003*"report" + 0.003*"stock" + 0.003*"within" + 0.003*"securities"')
