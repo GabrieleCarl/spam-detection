@@ -1,4 +1,4 @@
-#SPAM DETECTION
+## SPAM DETECTION
 
 L'azienda ProfessionAI vuole realizzare una libreria capace di fare analisi delle email ricevute.
 
